@@ -1,0 +1,2501 @@
+,City,Zip Code,Walk Score,Bike Score,Population,State
+0,Cheyenne,,36,49,59466,WY
+1,Casper,,36,42,55316,WY
+2,Laramie,,35,74,30816,WY
+3,Gillette,,22,31,29087,WY
+4,Rock Springs,,26,32,23036,WY
+5,Sheridan,,30,40,17444,WY
+0,Milwaukee (the largest city in Wisconsin),53215.0,62,58,594833,WI
+1,Madison,53703.0,50,66,233209,WI
+2,Green Bay,54302.0,42,47,104057,WI
+3,Kenosha,53143.0,49,47,99218,WI
+4,Racine,,56,54,78860,WI
+5,Appleton,,44,51,72623,WI
+6,Waukesha,,35,38,70718,WI
+7,Oshkosh,,43,51,66083,WI
+8,Eau Claire,,36,48,65883,WI
+9,Janesville,,37,45,63575,WI
+10,West Allis,53227.0,60,51,60411,WI
+11,La Crosse,,54,66,51320,WI
+12,Sheboygan,,53,58,49288,WI
+13,Wauwatosa,53213.0,60,57,46396,WI
+14,Fond du Lac,,44,50,43021,WI
+15,New Berlin,53151.0,19,34,39584,WI
+16,Wausau,,43,49,39106,WI
+17,Brookfield,53005.0,20,33,37920,WI
+18,Beloit,,42,48,36966,WI
+19,Greenfield,53228.0,40,41,36720,WI
+20,Menomonee Falls,53051.0,27,35,35626,WI
+21,Franklin,53132.0,17,31,35451,WI
+22,Oak Creek,53154.0,22,38,34451,WI
+23,Manitowoc,,39,47,33736,WI
+24,West Bend,,34,39,31078,WI
+25,Sun Prairie,,33,56,29364,WI
+26,Superior,,44,49,27244,WI
+27,Stevens Point,,45,64,26717,WI
+28,Mount Pleasant,,20,34,26197,WI
+29,Neenah,,42,49,25501,WI
+30,Fitchburg,,30,58,25260,WI
+31,Caledonia,53402.0,10,29,24705,WI
+32,Muskego,53150.0,16,37,24135,WI
+33,Watertown,,41,39,23861,WI
+34,De Pere,,30,40,23800,WI
+35,Mequon,53092.0,11,32,23132,WI
+36,South Milwaukee,53172.0,45,46,21156,WI
+37,Germantown,53022.0,22,33,19749,WI
+38,Pleasant Prairie,53158.0,11,35,19719,WI
+39,Marshfield,,36,55,19118,WI
+40,Wisconsin Rapids,,40,51,18367,WI
+41,Cudahy,53110.0,49,54,18267,WI
+42,Onalaska,,28,41,17736,WI
+43,Middleton,,46,59,17442,WI
+44,Howard,,18,38,17399,WI
+45,Menasha,,41,55,17353,WI
+46,Ashwaubenon,,31,39,16963,WI
+0,Charleston (the largest city in West Virginia),25301.0,33,28,51400,WV
+1,Huntington,25703.0,49,44,49138,WV
+2,Parkersburg,,46,33,31492,WV
+3,Morgantown,,59,40,29660,WV
+4,Wheeling,,37,35,28486,WV
+5,Weirton,,25,20,19746,WV
+6,Fairmont,,40,26,18704,WV
+7,Beckley,,35,27,17614,WV
+8,Martinsburg,,45,36,17227,WV
+9,Clarksburg,,42,28,16578,WV
+0,Seattle (the largest city in Washington),98115.0,74,71,608660,WA
+1,Spokane,99205.0,49,52,208916,WA
+2,Tacoma,98406.0,54,48,198397,WA
+3,Vancouver,98683.0,41,59,161791,WA
+4,Bellevue,98006.0,41,42,122363,WA
+5,Everett,98203.0,49,55,103019,WA
+6,Kent,98032.0,40,44,92411,WA
+7,Yakima,98902.0,49,46,91067,WA
+8,Renton,98055.0,40,35,90927,WA
+9,Spokane Valley,99216.0,30,44,89755,WA
+10,Federal Way,98023.0,38,37,89306,WA
+11,Bellingham,98225.0,49,58,80885,WA
+12,Kennewick,99336.0,36,40,73917,WA
+13,Auburn,98002.0,33,41,70180,WA
+14,Marysville,98270.0,23,39,60020,WA
+15,Pasco,,38,42,59781,WA
+16,Lakewood,98499.0,40,43,58163,WA
+17,Redmond,,33,51,54144,WA
+18,Shoreline,,50,49,53007,WA
+19,South Hill,,16,29,52431,WA
+20,Kirkland,98033.0,51,48,48787,WA
+21,Richland,,34,49,48058,WA
+22,Olympia,,39,59,46478,WA
+23,Sammamish,98075.0,13,28,45780,WA
+24,Lacey,,29,51,42393,WA
+25,Edmonds,,48,41,39709,WA
+26,Bremerton,98337.0,51,38,37729,WA
+27,Puyallup,,32,33,37022,WA
+28,Longview,,41,49,36648,WA
+29,Lynnwood,,54,49,35836,WA
+30,Parkland,,36,40,35803,WA
+31,Bothell,,29,35,33505,WA
+32,Burien,,52,45,33313,WA
+33,Wenatchee,,47,46,31925,WA
+34,Mount Vernon,,35,42,31743,WA
+35,Walla Walla,,47,62,31731,WA
+36,University Place,98467.0,32,42,31144,WA
+37,Issaquah,,31,37,30434,WA
+38,East Hill-Meridian,,25,30,29878,WA
+39,Pullman,,42,39,29799,WA
+40,Des Moines,,41,40,29673,WA
+41,Lake Stevens,,23,32,28069,WA
+42,Spanaway,,22,34,27227,WA
+43,SeaTac,,38,37,26909,WA
+44,Graham,,6,26,23491,WA
+45,Bainbridge Island,98110.0,19,39,23025,WA
+46,Inglewood-Finn Hill,,28,32,22707,WA
+47,Mercer Island,98040.0,33,33,22699,WA
+48,Maple Valley,,24,31,22684,WA
+49,Cottage Lake,,6,23,22494,WA
+50,Oak Harbor,,27,37,22075,WA
+51,Silver Firs,,18,34,20891,WA
+52,Kenmore,98028.0,28,34,20460,WA
+53,Moses Lake,,29,35,20366,WA
+54,Mukilteo,98275.0,25,29,20254,WA
+55,Eastmont,,19,37,20101,WA
+56,Mountlake Terrace,98043.0,52,41,19909,WA
+57,Salmon Creek,,30,47,19686,WA
+58,Orchards,,32,55,19556,WA
+59,Hazel Dell,,41,60,19435,WA
+60,Camas,,18,35,19355,WA
+61,Silverdale,,14,26,19204,WA
+62,Tukwila,,41,39,19107,WA
+63,Fairwood,,20,28,19102,WA
+64,Port Angeles,,40,35,19038,WA
+65,Union Hill-Novelty Hill,,12,31,18805,WA
+66,Frederickson,,6,24,18719,WA
+67,Mill Creek,,29,47,18244,WA
+68,Ellensburg,,41,55,18174,WA
+69,Five Corners,,28,53,18159,WA
+70,Arlington,,26,35,17926,WA
+71,Covington,,17,34,17575,WA
+72,Battle Ground,,32,51,17571,WA
+73,Bonney Lake,,16,24,17374,WA
+74,Tumwater,,29,36,17371,WA
+75,Monroe,,31,39,17304,WA
+76,Aberdeen,,44,43,16896,WA
+77,Bothell West,,18,27,16607,WA
+78,North Lynnwood,,40,43,16574,WA
+0,Virginia Beach (the largest city in Virginia),23464.0,33,42,437994,VA
+1,Norfolk,23503.0,46,47,242803,VA
+2,Chesapeake,23322.0,21,35,222209,VA
+3,Arlington,22204.0,71,72,207627,VA
+4,Richmond,23220.0,51,51,204214,VA
+5,Newport News,23608.0,34,39,180719,VA
+6,Alexandria,22304.0,62,62,139966,VA
+7,Hampton,23666.0,33,40,137436,VA
+8,Roanoke,24017.0,39,39,97032,VA
+9,Portsmouth,23703.0,35,42,95535,VA
+10,Suffolk,23434.0,15,32,84585,VA
+11,Lynchburg,,29,24,75568,VA
+12,Centreville,,32,47,71135,VA
+13,Dale City,22193.0,21,25,65969,VA
+14,Reston,20191.0,40,54,58404,VA
+15,Harrisonburg,,45,40,48914,VA
+16,McLean,22101.0,23,30,48115,VA
+17,Tuckahoe,23229.0,30,31,44990,VA
+18,Ashburn,,37,41,43511,VA
+19,Charlottesville,,58,57,43475,VA
+20,Danville,,26,25,43055,VA
+21,Blacksburg,,43,65,42620,VA
+22,Leesburg,,36,44,42616,VA
+23,Lake Ridge,,25,23,41058,VA
+24,Burke,,26,33,41055,VA
+25,Annandale,,42,43,41008,VA
+26,Manassas,,43,46,37821,VA
+27,Mechanicsville,,14,26,36348,VA
+28,Linton Hall,,12,36,35725,VA
+29,Marumsco,,33,24,35036,VA
+30,Oakton,,30,45,34166,VA
+31,Petersburg,,30,32,32420,VA
+32,Springfield,22150.0,39,42,30484,VA
+33,Fair Oaks,,46,55,30223,VA
+34,West Falls Church,22042.0,52,44,29207,VA
+35,Sterling,,39,39,27822,VA
+36,Winchester,22601.0,51,40,26203,VA
+37,Cave Spring,,25,18,24922,VA
+38,Salem,,27,30,24802,VA
+39,Short Pump,,30,32,24729,VA
+40,Fredericksburg,22401.0,46,46,24286,VA
+41,South Riding,,20,39,24256,VA
+42,Staunton,,35,22,23746,VA
+43,Bailey's Crossroads,,64,53,23643,VA
+44,Herndon,,51,56,23292,VA
+45,Chantilly,,30,42,23039,VA
+46,Lincolnia,22312.0,41,34,22855,VA
+47,Hopewell,,36,34,22591,VA
+48,Fairfax,,54,55,22565,VA
+49,West Springfield,,23,28,22460,VA
+50,Christiansburg,,25,26,21041,VA
+51,Waynesboro,,31,30,21006,VA
+52,Chester,,11,20,20987,VA
+53,Woodlawn,,47,44,20804,VA
+54,Rose Hill,,29,31,20226,VA
+55,Tysons Corner,,48,45,19627,VA
+56,Montclair,,13,22,19570,VA
+57,Franklin Farm,,20,50,19288,VA
+58,Lorton,,29,39,18610,VA
+59,Meadowbrook,,17,27,18312,VA
+60,Franconia,,34,47,18245,VA
+61,Bristol,24201.0,29,27,17835,VA
+62,McNair,,50,43,17513,VA
+63,Colonial Heights,,33,33,17411,VA
+64,Burke Centre,,38,38,17326,VA
+65,Idylwood,,45,43,17288,VA
+66,Laurel,,33,34,16713,VA
+0,Burlington,,59,81,42417,VT
+1,South Burlington,,29,55,17904,VT
+0,Salt Lake City (the largest city in Utah),84116.0,59,74,186440,UT
+1,West Valley City,84120.0,36,39,129480,UT
+2,Provo,84601.0,45,63,112488,UT
+3,West Jordan,84088.0,28,40,103712,UT
+4,Orem,84057.0,43,56,88328,UT
+5,Sandy,84094.0,35,37,87461,UT
+6,Ogden,,44,44,82825,UT
+7,St. George,,27,45,72897,UT
+8,Layton,84041.0,30,38,67311,UT
+9,Millcreek,,46,46,62139,UT
+10,Taylorsville,,35,42,58652,UT
+11,South Jordan,84095.0,26,44,50418,UT
+12,Logan,,40,51,48174,UT
+13,Lehi,,20,40,47407,UT
+14,Murray,84107.0,39,51,46746,UT
+15,Bountiful,,37,34,42552,UT
+16,Draper,84020.0,17,33,42274,UT
+17,Riverton,,26,42,38753,UT
+18,Roy,84067.0,31,46,36884,UT
+19,Kearns,,34,36,35731,UT
+20,Spanish Fork,,30,44,34691,UT
+21,Pleasant Grove,,28,42,33509,UT
+22,Cottonwood Heights,,41,40,33433,UT
+23,Tooele,,22,33,31605,UT
+24,Clearfield,,35,48,30112,UT
+25,Springville,,28,37,29466,UT
+26,Cedar City,,29,40,28857,UT
+27,Midvale,84047.0,53,47,27964,UT
+28,Kaysville,,20,36,27300,UT
+29,Magna,,35,33,26505,UT
+30,Holladay,,36,44,26472,UT
+31,American Fork,,32,44,26263,UT
+32,Syracuse,,21,40,24331,UT
+33,South Salt Lake,,58,57,23617,UT
+34,Herriman,,13,28,21785,UT
+35,Eagle Mountain,,16,30,21415,UT
+36,Clinton,,28,45,20426,UT
+37,Washington,,15,31,18761,UT
+38,Payson,,36,37,18294,UT
+39,Farmington,,19,39,18275,UT
+40,Brigham City,,40,49,17899,UT
+41,Saratoga Springs,,7,25,17781,UT
+42,North Ogden,,19,24,17357,UT
+43,South Ogden,,42,37,16532,UT
+0,Houston (the largest city in Texas),77036.0,47,49,2099451,TX
+1,San Antonio,78228.0,37,45,1327407,TX
+2,Dallas,75217.0,46,49,1197816,TX
+3,Austin,78745.0,42,54,790390,TX
+4,Fort Worth,76106.0,35,39,741206,TX
+5,El Paso,79936.0,40,42,649121,TX
+6,Arlington,76010.0,38,40,365438,TX
+7,Corpus Christi,78413.0,40,42,305215,TX
+8,Plano,75025.0,41,52,259841,TX
+9,Laredo,78041.0,37,40,236091,TX
+10,Lubbock,79413.0,39,43,229573,TX
+11,Garland,75040.0,40,41,226876,TX
+12,Irving,75061.0,45,42,216290,TX
+13,Amarillo,79109.0,40,42,190695,TX
+14,Grand Prairie,75052.0,32,34,175396,TX
+15,Brownsville,,35,41,175023,TX
+16,Pasadena,77502.0,43,45,149043,TX
+17,Mesquite,75150.0,35,40,139824,TX
+18,McKinney,75070.0,27,42,131117,TX
+19,McAllen,78501.0,41,46,129877,TX
+20,Killeen,76541.0,30,38,127921,TX
+21,Waco,76710.0,35,39,124805,TX
+22,Carrollton,75007.0,36,39,119097,TX
+23,Beaumont,77706.0,31,37,118296,TX
+24,Abilene,79605.0,31,37,117063,TX
+25,Frisco,75035.0,25,39,116989,TX
+26,Denton,76209.0,34,46,113383,TX
+27,Midland,79701.0,42,40,111147,TX
+28,Wichita Falls,76301.0,29,39,104553,TX
+29,Odessa,79761.0,42,40,99940,TX
+30,Round Rock,,26,35,99887,TX
+31,Richardson,75080.0,44,53,99223,TX
+32,Tyler,75701.0,35,35,96900,TX
+33,Lewisville,75067.0,39,39,95290,TX
+34,College Station,77840.0,34,62,93857,TX
+35,The Woodlands,77381.0,18,45,93847,TX
+36,San Angelo,76908.0,32,37,93200,TX
+37,Pearland,77581.0,21,36,91252,TX
+38,Allen,75013.0,35,58,84246,TX
+39,League City,77573.0,24,34,83560,TX
+40,Longview,75601.0,28,33,80455,TX
+41,Sugar Land,,28,37,78817,TX
+42,Edinburg,,26,36,77100,TX
+43,Mission,,30,37,77058,TX
+44,Bryan,77803.0,33,45,76201,TX
+45,Baytown,,33,38,71802,TX
+46,Pharr,,33,41,70400,TX
+47,Missouri City,,25,34,67358,TX
+48,Temple,,29,36,66102,TX
+49,Atascocita,77346.0,24,34,65844,TX
+50,Harlingen,,34,39,64849,TX
+51,Flower Mound,75028.0,26,32,64669,TX
+52,North Richland Hills,76180.0,33,42,63343,TX
+53,Victoria,77901.0,35,41,62592,TX
+54,New Braunfels,,25,32,57740,TX
+55,Mansfield,,25,33,56368,TX
+56,Conroe,77301.0,24,38,56207,TX
+57,Rowlett,75089.0,19,30,56199,TX
+58,Spring,77373.0,19,34,54298,TX
+59,Port Arthur,,33,38,53818,TX
+60,Euless,76039.0,38,37,51277,TX
+61,DeSoto,75115.0,23,29,49047,TX
+62,Cedar Park,,26,40,48937,TX
+63,Galveston,77550.0,54,57,47743,TX
+64,Georgetown,,23,35,47400,TX
+65,Bedford,76021.0,44,41,46979,TX
+66,Pflugerville,,23,39,46936,TX
+67,Grapevine,76051.0,30,38,46334,TX
+68,Texas City,77590.0,36,44,45099,TX
+69,Cedar Hill,75104.0,19,31,45028,TX
+70,San Marcos,,39,43,44894,TX
+71,Haltom City,,39,39,42409,TX
+72,Wylie,,17,33,41427,TX
+73,Keller,,23,34,39627,TX
+74,Coppell,,28,36,38659,TX
+75,Huntsville,77341.0,34,30,38548,TX
+76,Duncanville,75116.0,43,42,38524,TX
+77,Sherman,,29,34,38521,TX
+78,Channelview,77530.0,24,33,38289,TX
+79,Rockwall,,24,28,37490,TX
+80,Hurst,76054.0,49,43,37337,TX
+81,Burleson,,28,37,36690,TX
+82,Mission Bend,,24,34,36501,TX
+83,Texarkana,,29,37,36411,TX
+84,Lancaster,75134.0,22,35,36361,TX
+85,The Colony,,28,40,36328,TX
+86,Friendswood,,23,33,35805,TX
+87,Weslaco,,35,37,35670,TX
+88,Del Rio,,32,40,35591,TX
+89,Lufkin,,25,36,35067,TX
+90,San Juan,,31,37,33856,TX
+91,La Porte,,26,35,33800,TX
+92,Nacogdoches,,30,34,32996,TX
+93,Copperas Cove,,25,30,32032,TX
+94,Socorro,,20,33,32013,TX
+95,Deer Park,77536.0,33,38,32010,TX
+96,Schertz,,22,30,31465,TX
+97,Rosenberg,,35,37,30618,TX
+98,Waxahachie,,30,34,29621,TX
+99,Fort Hood,,18,34,29589,TX
+100,Cleburne,,30,34,29337,TX
+101,Farmers Branch,75234.0,44,52,28616,TX
+102,Kyle,,17,28,28016,TX
+103,Big Spring,,21,33,27282,TX
+104,Lake Jackson,,24,36,26849,TX
+105,Harker Heights,76548.0,27,36,26700,TX
+106,Southlake,76092.0,15,28,26575,TX
+107,Leander,,28,41,26521,TX
+108,Eagle Pass,,36,37,26248,TX
+109,Kingsville,,38,46,26213,TX
+110,Little Elm,,24,32,25898,TX
+111,Greenville,,28,35,25557,TX
+112,Weatherford,,27,31,25250,TX
+113,Seguin,,34,45,25175,TX
+114,Paris,,33,42,25171,TX
+115,San Benito,,35,40,24250,TX
+116,Alvin,,30,40,24236,TX
+117,Corsicana,,34,39,23770,TX
+118,Balch Springs,75180.0,27,37,23728,TX
+119,Marshall,,23,30,23523,TX
+120,Watauga,,40,42,23497,TX
+121,University Park,,61,59,23068,TX
+122,Cloverleaf,,44,48,22942,TX
+123,Colleyville,76034.0,17,31,22807,TX
+124,West Odessa,,7,27,22707,TX
+125,Denison,,26,29,22682,TX
+126,Kerrville,,28,40,22347,TX
+127,Plainview,,31,37,22194,TX
+128,Brushy Creek,,15,29,21764,TX
+129,Canyon Lake,78133.0,3,14,21262,TX
+130,Benbrook,,24,38,21234,TX
+131,Sachse,75048.0,18,30,20329,TX
+132,Corinth,,11,30,19935,TX
+133,Saginaw,,30,36,19806,TX
+134,Brownwood,,32,36,19288,TX
+135,Alice,,38,39,19104,TX
+136,Fresno,77545.0,9,29,19069,TX
+137,Angleton,,26,35,18862,TX
+138,Palestine,,23,35,18712,TX
+139,Dickinson,,28,34,18680,TX
+140,Orange,,24,35,18595,TX
+141,Universal City,,36,41,18530,TX
+142,Ennis,,31,37,18513,TX
+143,Alamo,,32,38,18353,TX
+144,Cinco Ranch,,45,42,18274,TX
+145,Belton,,30,36,18216,TX
+146,Converse,,24,31,18198,TX
+147,Midlothian,,13,27,18037,TX
+148,Pampa,,33,36,17994,TX
+149,Murphy,75094.0,13,32,17708,TX
+150,Stafford,,36,39,17693,TX
+151,Bay City,,26,42,17614,TX
+152,Nederland,,45,40,17547,TX
+153,Stephenville,,36,36,17123,TX
+154,South Houston,77587.0,58,53,16983,TX
+155,Bellaire,77401.0,52,49,16855,TX
+156,Mineral Wells,,21,39,16788,TX
+157,Horizon City,,24,33,16735,TX
+0,Memphis (the largest city in Tennessee),38109.0,35,41,646889,TN
+1,Nashville-Davidson,37013.0,29,30,601222,TN
+2,Knoxville,37917.0,31,30,178874,TN
+3,Chattanooga,37411.0,29,35,167674,TN
+4,Clarksville,,18,27,132929,TN
+5,Murfreesboro,,25,38,108755,TN
+6,Jackson,,22,32,65211,TN
+7,Johnson City,,26,26,63152,TN
+8,Franklin,,23,30,62487,TN
+9,Bartlett,,15,33,54613,TN
+10,Hendersonville,,14,24,51372,TN
+11,Kingsport,37665.0,25,26,48205,TN
+12,Collierville,,12,30,43965,TN
+13,Cleveland,,29,29,41285,TN
+14,Smyrna,,20,32,39974,TN
+15,Germantown,38138.0,16,31,38844,TN
+16,Brentwood,,4,18,37060,TN
+17,Columbia,,24,27,34681,TN
+18,La Vergne,37086.0,10,25,32588,TN
+19,Cookeville,,35,37,30435,TN
+20,Gallatin,,24,36,30278,TN
+21,Oak Ridge,37830.0,18,23,29330,TN
+22,Morristown,,28,26,29137,TN
+23,Spring Hill,,11,24,29036,TN
+24,Maryville,,26,30,27465,TN
+25,Bristol,,25,24,26702,TN
+26,Lebanon,,23,37,26190,TN
+27,Mount Juliet,,13,22,23671,TN
+28,East Ridge,37412.0,30,30,20979,TN
+29,Farragut,,13,21,20676,TN
+30,Shelbyville,,23,36,20335,TN
+31,Tullahoma,,18,37,18655,TN
+32,Dyersburg,,24,31,17145,TN
+0,Sioux Falls,,38,46,153888,SD
+1,Rapid City,,28,36,67956,SD
+2,Aberdeen,,39,63,26091,SD
+3,Brookings,,39,58,22056,SD
+4,Watertown,,36,46,21482,SD
+0,Columbia (the largest city in South Carolina),29205.0,35,35,129272,SC
+1,Charleston,29407.0,40,50,120083,SC
+2,North Charleston,29405.0,26,38,97471,SC
+3,Mount Pleasant,,22,38,67843,SC
+4,Rock Hill,,28,31,66154,SC
+5,Greenville,29601.0,43,39,58409,SC
+6,Summerville,,21,36,43392,SC
+7,Sumter,29152.0,25,37,40524,SC
+8,Hilton Head Island,29928.0,13,46,37099,SC
+9,Florence,,27,39,37056,SC
+10,Spartanburg,,29,32,37013,SC
+11,Goose Creek,,14,35,35938,SC
+12,Aiken,,24,32,29524,SC
+13,Myrtle Beach,,43,54,27109,SC
+14,Anderson,,30,31,26686,SC
+15,Greer,,25,24,25515,SC
+16,Greenwood,,29,36,23222,SC
+17,Mauldin,29662.0,20,23,22889,SC
+18,Taylors,,12,19,21617,SC
+19,North Augusta,,21,33,21348,SC
+20,Wade Hampton,,31,26,20622,SC
+21,St. Andrews,,24,30,20493,SC
+22,Easley,,24,27,19993,SC
+23,Socastee,,23,32,19952,SC
+24,Simpsonville,,21,24,18238,SC
+25,Hanahan,,20,36,17997,SC
+26,Lexington,,25,23,17870,SC
+27,Conway,,28,38,17103,SC
+0,Providence (the largest city in Rhode Island),2909.0,76,61,178042,RI
+1,Warwick,2886.0,35,36,82672,RI
+2,Cranston,2920.0,51,43,80387,RI
+3,Pawtucket,2860.0,71,50,71148,RI
+4,East Providence,2914.0,50,44,47037,RI
+5,Woonsocket,2895.0,57,34,41186,RI
+6,Newport,2840.0,59,53,24672,RI
+7,Central Falls,2863.0,81,52,19376,RI
+8,Westerly,,36,34,17936,RI
+0,Philadelphia (the largest city in Pennsylvania),19120.0,75,67,1526006,PA
+1,Pittsburgh,15213.0,62,55,305704,PA
+2,Allentown,18102.0,67,42,118032,PA
+3,Erie,16504.0,60,52,101786,PA
+4,Reading,,72,47,88082,PA
+5,Scranton,18503.0,58,38,76089,PA
+6,Bethlehem,18018.0,59,45,74982,PA
+7,Lancaster,,81,58,59322,PA
+8,Levittown,19055.0,37,40,52983,PA
+9,Harrisburg,17104.0,68,57,49528,PA
+10,Altoona,,54,32,46320,PA
+11,York,17401.0,71,62,43718,PA
+12,State College,,68,78,42034,PA
+13,Wilkes-Barre,18701.0,62,44,41498,PA
+14,Norristown,,68,47,34324,PA
+15,Chester,19013.0,60,50,33972,PA
+16,Bethel Park,15102.0,31,16,32313,PA
+17,Williamsport,,55,56,29381,PA
+18,Monroeville,15146.0,21,12,28386,PA
+19,Drexel Hill,19026.0,61,39,28043,PA
+20,Plum,15239.0,13,10,27126,PA
+21,Easton,,67,48,26800,PA
+22,Lebanon,,67,55,25477,PA
+23,Hazleton,,64,38,25340,PA
+24,New Castle,,44,37,23273,PA
+25,Pottstown,,60,43,22377,PA
+26,Allison Park,,14,9,21552,PA
+27,Johnstown,15901.0,45,36,20978,PA
+28,West Mifflin,15122.0,24,13,20313,PA
+29,Chambersburg,,49,56,20268,PA
+30,Murrysville,15668.0,9,10,20079,PA
+31,King of Prussia,,36,31,19936,PA
+32,Baldwin,,27,15,19767,PA
+33,McKeesport,15132.0,41,32,19731,PA
+34,Upper St. Clair,15241.0,14,7,19229,PA
+35,Carlisle,,63,63,18682,PA
+36,West Chester,,74,47,18461,PA
+0,Portland (the largest city in Oregon),97206.0,67,83,583776,OR
+1,Eugene,97401.0,46,72,156185,OR
+2,Salem,,42,60,154637,OR
+3,Gresham,97030.0,47,64,105594,OR
+4,Hillsboro,,44,72,91611,OR
+5,Beaverton,97008.0,52,67,89803,OR
+6,Bend,,32,53,76639,OR
+7,Medford,,38,53,74907,OR
+8,Springfield,,46,63,59403,OR
+9,Corvallis,97331.0,47,85,54462,OR
+10,Albany,,33,52,50158,OR
+11,Aloha,,43,63,49425,OR
+12,Tigard,,43,62,48035,OR
+13,Lake Oswego,,37,47,36619,OR
+14,Keizer,,35,56,36478,OR
+15,Grants Pass,,40,45,34533,OR
+16,McMinnville,,43,53,32187,OR
+17,Oregon City,,38,51,31859,OR
+18,Redmond,,29,46,26215,OR
+19,Tualatin,,29,52,26054,OR
+20,West Linn,,34,41,25109,OR
+21,Woodburn,,47,54,24080,OR
+22,Newberg,,44,67,22068,OR
+23,Roseburg,,39,45,21181,OR
+24,Forest Grove,,41,65,21083,OR
+25,Klamath Falls,,40,44,20840,OR
+26,Bethany,,37,55,20646,OR
+27,Milwaukie,,53,70,20291,OR
+28,Ashland,,55,62,20078,OR
+29,Hayesville,,35,57,19936,OR
+30,Wilsonville,,30,55,19509,OR
+31,Altamont,,26,43,19257,OR
+32,Sherwood,,38,53,18194,OR
+33,Central Point,,32,48,17169,OR
+34,Hermiston,,45,40,16745,OR
+35,Oak Grove,,48,65,16629,OR
+36,Pendleton,,35,29,16612,OR
+0,Oklahoma City (the largest city in Oklahoma),73170.0,34,40,579999,OK
+1,Tulsa,74133.0,39,47,391906,OK
+2,Norman,73071.0,31,58,110925,OK
+3,Broken Arrow,74012.0,22,32,98850,OK
+4,Lawton,,34,40,96867,OK
+5,Edmond,,29,34,81405,OK
+6,Moore,73160.0,32,35,55081,OK
+7,Midwest City,73110.0,29,37,54371,OK
+8,Enid,,30,41,49379,OK
+9,Stillwater,,35,61,45688,OK
+10,Muskogee,,34,43,39223,OK
+11,Bartlesville,,26,32,35750,OK
+12,Shawnee,,35,36,29857,OK
+13,Owasso,,28,37,28915,OK
+14,Ponca City,,32,39,25387,OK
+15,Ardmore,,32,38,24283,OK
+16,Duncan,,27,37,23431,OK
+17,Yukon,,34,40,22709,OK
+18,Del City,73115.0,35,41,21332,OK
+19,Bixby,,16,32,20884,OK
+20,Sapulpa,,24,33,20544,OK
+21,Altus,,29,38,19813,OK
+22,Bethany,,47,44,19051,OK
+23,Sand Springs,,19,32,18906,OK
+24,Claremore,,26,39,18581,OK
+25,McAlester,,26,35,18383,OK
+26,Mustang,,23,32,17395,OK
+27,Jenks,74037.0,13,37,16924,OK
+28,Ada,,31,38,16810,OK
+29,El Reno,,29,34,16749,OK
+0,Columbus (the largest city in Ohio),43229.0,41,48,787033,OH
+1,Cleveland,44102.0,57,52,396815,OH
+2,Cincinnati,45205.0,49,36,296943,OH
+3,Toledo,43613.0,46,46,287208,OH
+4,Akron,44310.0,48,43,199110,OH
+5,Dayton,45406.0,45,47,141527,OH
+6,Parma,44134.0,42,38,81601,OH
+7,Canton,44703.0,48,43,73007,OH
+8,Youngstown,44509.0,34,34,66982,OH
+9,Lorain,44052.0,38,40,64097,OH
+10,Hamilton,45015.0,42,41,62477,OH
+11,Springfield,,42,46,60608,OH
+12,Kettering,,41,43,56163,OH
+13,Elyria,,29,39,54533,OH
+14,Lakewood,44107.0,70,64,52131,OH
+15,Cuyahoga Falls,44221.0,46,41,49652,OH
+16,Euclid,44123.0,37,40,48920,OH
+17,Middletown,,33,37,48694,OH
+18,Mansfield,44902.0,31,32,47821,OH
+19,Newark,,36,44,47573,OH
+20,Mentor,,21,32,47159,OH
+21,Cleveland Heights,,53,51,46121,OH
+22,Beavercreek,45430.0,18,32,45193,OH
+23,Strongsville,44136.0,20,32,44750,OH
+24,Fairfield,45014.0,28,30,42510,OH
+25,Dublin,,17,45,41751,OH
+26,Warren,,34,42,41557,OH
+27,Findlay,,39,40,41202,OH
+28,Lancaster,,41,43,38780,OH
+29,Lima,,42,45,38771,OH
+30,Huber Heights,,28,34,38101,OH
+31,Marion,,37,39,36837,OH
+32,Westerville,,28,50,36120,OH
+33,Reynoldsburg,,29,37,35893,OH
+34,Grove City,,27,48,35575,OH
+35,Boardman,,29,36,35376,OH
+36,Stow,44224.0,22,34,34837,OH
+37,Delaware,,29,35,34753,OH
+38,Brunswick,,22,32,34255,OH
+39,Upper Arlington,,45,49,33771,OH
+40,Gahanna,,26,34,33248,OH
+41,Westlake,44145.0,24,34,32729,OH
+42,North Olmsted,44070.0,28,38,32718,OH
+43,Fairborn,,32,38,32352,OH
+44,Massillon,,40,39,32149,OH
+45,Mason,,18,42,30712,OH
+46,North Royalton,44133.0,16,26,30444,OH
+47,Bowling Green,,43,54,30028,OH
+48,Austintown,,27,32,29677,OH
+49,North Ridgeville,44039.0,16,30,29465,OH
+50,Kent,44243.0,41,48,28904,OH
+51,Garfield Heights,,44,37,28849,OH
+52,Shaker Heights,,45,45,28448,OH
+53,Hilliard,,23,41,28435,OH
+54,Medina,,30,34,26678,OH
+55,Barberton,,42,39,26550,OH
+56,Wooster,,33,33,26119,OH
+57,Sandusky,,50,43,25793,OH
+58,Xenia,,28,47,25719,OH
+59,Green,,9,23,25699,OH
+60,Zanesville,,41,37,25487,OH
+61,Riverside,,35,42,25201,OH
+62,Troy,,36,43,25058,OH
+63,Trotwood,45426.0,19,32,24431,OH
+64,Centerville,,30,39,23999,OH
+65,Athens,,56,63,23832,OH
+66,Solon,44139.0,12,32,23348,OH
+67,Maple Heights,44137.0,40,41,23138,OH
+68,Avon Lake,44012.0,24,38,22581,OH
+69,Alliance,,43,44,22322,OH
+70,South Euclid,,47,43,22295,OH
+71,Willoughby,,30,36,22268,OH
+72,Hudson,,12,33,22262,OH
+73,Marysville,,23,40,22094,OH
+74,Chillicothe,,40,38,21901,OH
+75,Wadsworth,,31,34,21567,OH
+76,Oxford,,44,53,21371,OH
+77,Sidney,,32,32,21229,OH
+78,Avon,44011.0,14,29,21193,OH
+79,Parma Heights,,41,42,20718,OH
+80,Perrysburg,,25,37,20623,OH
+81,Piqua,,42,51,20522,OH
+82,Ashland,,41,39,20362,OH
+83,Oregon,43616.0,23,36,20291,OH
+84,Portsmouth,,47,37,20226,OH
+85,Rocky River,44116.0,44,43,20213,OH
+86,Miamisburg,,27,31,20181,OH
+87,Lebanon,,22,32,20033,OH
+88,Painesville,,37,42,19563,OH
+89,Broadview Heights,44147.0,10,21,19400,OH
+90,Niles,,36,36,19266,OH
+91,Brook Park,,32,38,19212,OH
+92,Norwood,,67,44,19207,OH
+93,White Oak,,31,24,19167,OH
+94,Mayfield Heights,,47,42,19155,OH
+95,Ashtabula,,34,40,19124,OH
+96,Berea,44017.0,35,49,19093,OH
+97,Sylvania,,27,39,18965,OH
+98,Twinsburg,,16,27,18795,OH
+99,Forest Park,,26,32,18720,OH
+100,Steubenville,,38,28,18659,OH
+101,Eastlake,,26,41,18577,OH
+102,Pickerington,,19,29,18291,OH
+103,Whitehall,,52,43,18062,OH
+104,Tiffin,,49,50,17963,OH
+105,East Cleveland,,55,44,17843,OH
+106,Tallmadge,44278.0,17,29,17537,OH
+107,North Canton,,39,36,17488,OH
+108,Springboro,,18,32,17409,OH
+109,New Philadelphia,,45,47,17288,OH
+110,Norwalk,,38,36,17012,OH
+111,Mount Vernon,,40,39,16990,OH
+112,Fairview Park,44126.0,41,41,16826,OH
+113,Fremont,,48,46,16734,OH
+0,Fargo (the largest city in North Dakota),58103.0,45,49,105549,ND
+1,Bismarck,,35,38,61272,ND
+2,Grand Forks,,47,62,52838,ND
+3,Minot,,37,34,40888,ND
+4,West Fargo,,29,37,25830,ND
+5,Mandan,,25,29,18331,ND
+6,Dickinson,,35,36,17787,ND
+0,Charlotte (the largest city in North Carolina),28269.0,26,31,731424,NC
+1,Raleigh,27612.0,31,39,403892,NC
+2,Greensboro,27401.0,29,32,269666,NC
+3,Winston-Salem,27106.0,22,29,229617,NC
+4,Durham,27701.0,30,38,228330,NC
+5,Fayetteville,28314.0,21,30,200564,NC
+6,Cary,27511.0,28,39,135234,NC
+7,Wilmington,28403.0,35,51,106476,NC
+8,High Point,27260.0,23,31,104371,NC
+9,Greenville,,31,43,84554,NC
+10,Asheville,28801.0,37,33,83393,NC
+11,Concord,,18,24,79066,NC
+12,Gastonia,,23,27,71741,NC
+13,Jacksonville,28543.0,24,40,70145,NC
+14,Rocky Mount,,22,33,57477,NC
+15,Chapel Hill,,34,50,57233,NC
+16,Burlington,,33,35,49963,NC
+17,Wilson,,31,37,49167,NC
+18,Huntersville,,16,28,46773,NC
+19,Kannapolis,,22,26,42625,NC
+20,Hickory,,28,26,40010,NC
+21,Apex,,26,27,37476,NC
+22,Goldsboro,,25,36,36437,NC
+23,Salisbury,,27,30,33662,NC
+24,Indian Trail,,10,25,33518,NC
+25,Monroe,,23,30,32797,NC
+26,Mooresville,,20,26,32711,NC
+27,Wake Forest,,20,25,30117,NC
+28,New Bern,,27,42,29524,NC
+29,Sanford,,22,32,28094,NC
+30,Matthews,,16,24,27198,NC
+31,Thomasville,,26,25,26757,NC
+32,Garner,,23,25,25745,NC
+33,Asheboro,,24,26,25012,NC
+34,Cornelius,,26,32,24866,NC
+35,Holly Springs,,19,24,24661,NC
+36,Statesville,,31,31,24532,NC
+37,Kernersville,,20,23,23123,NC
+38,Mint Hill,,10,21,22722,NC
+39,Kinston,,31,38,21677,NC
+40,Lumberton,,29,36,21542,NC
+41,Havelock,,25,41,20735,NC
+42,Shelby,,28,31,20323,NC
+43,Carrboro,27510.0,29,58,19582,NC
+44,Lexington,,33,27,18931,NC
+45,Elizabeth City,,36,49,18683,NC
+46,Clemmons,,12,20,18627,NC
+47,Morrisville,,27,41,18576,NC
+48,Lenoir,,21,25,18228,NC
+49,Fuquay-Varina,,22,29,17937,NC
+50,Boone,,49,22,17122,NC
+51,Morganton,,26,24,16918,NC
+0,New York (the largest city in New York),11368.0,88,69,8175133,NY
+1,Buffalo,14213.0,67,63,261310,NY
+2,Rochester,14621.0,61,60,210565,NY
+3,Yonkers,10701.0,69,37,195976,NY
+4,Syracuse,13210.0,57,48,145170,NY
+5,Albany,12208.0,65,55,97856,NY
+6,New Rochelle,10801.0,64,47,77062,NY
+7,Cheektowaga,14225.0,35,40,75178,NY
+8,Mount Vernon,10550.0,73,43,67292,NY
+9,Schenectady,12308.0,62,48,66135,NY
+10,Utica,13501.0,54,45,62235,NY
+11,Brentwood,11717.0,37,40,60664,NY
+12,Tonawanda,14223.0,49,48,58144,NY
+13,White Plains,10605.0,63,39,56853,NY
+14,Hempstead,11550.0,73,54,53891,NY
+15,Levittown,11756.0,53,44,51881,NY
+16,Irondequoit,14617.0,33,37,51692,NY
+17,Niagara Falls,14301.0,51,52,50193,NY
+18,Troy,,52,42,50129,NY
+19,Binghamton,,55,51,47376,NY
+20,West Seneca,14224.0,26,34,44711,NY
+21,West Babylon,11704.0,45,42,43213,NY
+22,Freeport,11520.0,62,48,42860,NY
+23,Hicksville,11801.0,61,49,41547,NY
+24,Coram,11727.0,17,34,39113,NY
+25,East Meadow,11554.0,54,44,38132,NY
+26,Valley Stream,,69,49,37511,NY
+27,Brighton,,29,45,36609,NY
+28,Commack,11725.0,31,37,36124,NY
+29,Central Islip,11722.0,35,40,34450,NY
+30,Rome,,37,42,33725,NY
+31,New City,10956.0,21,25,33559,NY
+32,Long Beach,,68,53,33275,NY
+33,Elmont,11003.0,62,48,33198,NY
+34,Huntington Station,,51,49,33029,NY
+35,Poughkeepsie,,61,51,32736,NY
+36,Oceanside,11572.0,55,46,32109,NY
+37,Centereach,11720.0,23,34,31578,NY
+38,North Tonawanda,,39,48,31568,NY
+39,Spring Valley,,51,38,31347,NY
+40,Jamestown,,52,40,31146,NY
+41,Ithaca,14853.0,72,58,30014,NY
+42,Franklin Square,11010.0,69,49,29320,NY
+43,Elmira,,51,51,29200,NY
+44,Port Chester,,76,42,28967,NY
+45,Newburgh,,67,41,28866,NY
+46,West Islip,11795.0,35,37,28335,NY
+47,Middletown,,57,35,28086,NY
+48,Shirley,11967.0,28,35,27854,NY
+49,Deer Park,11729.0,44,42,27745,NY
+50,Auburn,,52,40,27687,NY
+51,Harrison,10528.0,36,29,27472,NY
+52,Lindenhurst,,55,44,27253,NY
+53,Holbrook,11741.0,34,38,27195,NY
+54,Watertown,,51,43,27023,NY
+55,Glen Cove,11542.0,52,35,26964,NY
+56,Dix Hills,,13,22,26892,NY
+57,Saratoga Springs,,41,42,26586,NY
+58,Smithtown,,23,29,26470,NY
+59,Bay Shore,,48,47,26337,NY
+60,Plainview,11803.0,48,44,26217,NY
+61,Ossining,,63,34,25060,NY
+62,Uniondale,11553.0,61,50,24759,NY
+63,Medford,,20,34,24142,NY
+64,Baldwin,,63,50,24033,NY
+65,Rockville Centre,11570.0,61,55,24023,NY
+66,Kingston,,54,50,23893,NY
+67,Peekskill,10566.0,60,29,23583,NY
+68,Copiague,11726.0,59,46,22993,NY
+69,East Patchogue,,26,35,22469,NY
+70,Garden City,,53,45,22371,NY
+71,Merrick,,56,45,22097,NY
+72,Massapequa,,51,45,21685,NY
+73,Lockport,,42,49,21165,NY
+74,Hauppauge,11788.0,26,35,20882,NY
+75,Rotterdam,,41,41,20652,NY
+76,East Northport,,40,37,20217,NY
+77,Kiryas Joel,,25,26,20175,NY
+78,Lake Ronkonkoma,,40,40,20155,NY
+79,Plattsburgh,12903.0,55,53,19989,NY
+80,North Bellmore,,57,44,19941,NY
+81,Selden,,37,38,19851,NY
+82,Holtsville,11742.0,24,34,19714,NY
+83,Eastchester,10709.0,63,43,19554,NY
+84,Lynbrook,11563.0,71,57,19427,NY
+85,Cortland,,52,44,19204,NY
+86,Ronkonkoma,,26,33,19082,NY
+87,East Massapequa,,51,45,19069,NY
+88,Melville,11747.0,20,28,18985,NY
+89,North Bay Shore,,39,48,18944,NY
+90,Mamaroneck,,66,49,18929,NY
+91,Wantagh,,48,44,18871,NY
+92,West Hempstead,,67,51,18862,NY
+93,Syosset,,40,41,18829,NY
+94,Mineola,11501.0,78,50,18799,NY
+95,Islip,11751.0,42,42,18689,NY
+96,Amsterdam,,40,25,18620,NY
+97,Monsey,,35,31,18412,NY
+98,Oswego,,59,41,18142,NY
+99,Lackawanna,14218.0,39,46,18141,NY
+100,Huntington,,36,28,18046,NY
+101,North Massapequa,,49,45,17886,NY
+102,Nanuet,,34,30,17882,NY
+103,North Amityville,,44,42,17862,NY
+104,North Babylon,11703.0,47,41,17509,NY
+105,Kings Park,11754.0,27,31,17282,NY
+106,Scarsdale,,40,36,17166,NY
+107,Woodmere,,46,44,17121,NY
+108,Massapequa Park,,47,48,17008,NY
+109,Sayville,,34,37,16853,NY
+110,North Valley Stream,,62,47,16628,NY
+0,Albuquerque (the largest city in New Mexico),87120.0,43,61,545852,NM
+1,Las Cruces,,34,46,97618,NM
+2,Rio Rancho,,16,32,87521,NM
+3,Santa Fe,,39,50,67947,NM
+4,Roswell,,33,43,48366,NM
+5,Farmington,,31,36,45877,NM
+6,South Valley,,22,40,40976,NM
+7,Clovis,,33,41,37775,NM
+8,Hobbs,,39,40,34122,NM
+9,Alamogordo,,24,41,30403,NM
+10,Carlsbad,,33,46,26138,NM
+11,Gallup,,28,33,21678,NM
+0,Newark (the largest city in New Jersey),7104.0,76,51,277140,NJ
+1,Jersey City,7305.0,87,64,247597,NJ
+2,Paterson,7501.0,76,46,146199,NJ
+3,Elizabeth,7202.0,80,54,124969,NJ
+4,Toms River,8753.0,29,36,88791,NJ
+5,Trenton,8608.0,68,56,84913,NJ
+6,Clifton,7011.0,62,44,84136,NJ
+7,Camden,8105.0,63,56,77344,NJ
+8,Passaic,7055.0,82,50,69781,NJ
+9,Union City,7087.0,94,54,66455,NJ
+10,East Orange,7017.0,70,47,64270,NJ
+11,Bayonne,7002.0,79,51,63024,NJ
+12,Vineland,8361.0,26,35,60724,NJ
+13,New Brunswick,8901.0,73,60,55181,NJ
+14,Lakewood,,46,46,53805,NJ
+15,Perth Amboy,8861.0,73,50,50814,NJ
+16,Hoboken,7030.0,97,78,50005,NJ
+17,Plainfield,7062.0,54,48,49808,NJ
+18,West New York,7093.0,94,48,49708,NJ
+19,Hackensack,7601.0,73,49,43010,NJ
+20,Sayreville,8872.0,31,30,42704,NJ
+21,Kearny,7032.0,74,45,40684,NJ
+22,Linden,7036.0,63,51,40499,NJ
+23,Atlantic City,8401.0,74,60,39558,NJ
+24,Fort Lee,7024.0,77,49,35345,NJ
+25,Fair Lawn,7410.0,60,44,32457,NJ
+26,Long Branch,7740.0,59,57,30719,NJ
+27,Garfield,7026.0,77,47,30487,NJ
+28,Westfield,7090.0,45,41,30316,NJ
+29,Millville,,28,40,28400,NJ
+30,Rahway,7065.0,61,56,27346,NJ
+31,Englewood,7631.0,59,43,27147,NJ
+32,Bergenfield,7621.0,63,49,26764,NJ
+33,Paramus,7652.0,37,36,26342,NJ
+34,Bridgeton,,39,39,25349,NJ
+35,Ridgewood,7450.0,42,41,24958,NJ
+36,Lodi,7644.0,72,45,24136,NJ
+37,Old Bridge,,32,34,23753,NJ
+38,Cliffside Park,7010.0,83,45,23594,NJ
+39,South Plainfield,7080.0,43,41,23385,NJ
+40,Carteret,7008.0,56,46,22844,NJ
+41,Somerset,,26,39,22083,NJ
+42,North Plainfield,,58,41,21936,NJ
+43,Summit,7901.0,47,31,21457,NJ
+44,Roselle,7203.0,63,49,21085,NJ
+45,Pleasantville,8232.0,52,55,20249,NJ
+46,Palisades Park,7650.0,81,40,19622,NJ
+47,Elmwood Park,7407.0,56,43,19403,NJ
+48,Woodbridge,,53,41,19265,NJ
+49,Hawthorne,7506.0,54,36,18791,NJ
+50,Iselin,8830.0,61,45,18695,NJ
+51,Glassboro,,37,47,18579,NJ
+52,Morristown,,67,41,18411,NJ
+53,Point Pleasant,,48,51,18392,NJ
+54,Dover,,59,33,18157,NJ
+55,Rutherford,7070.0,67,47,18061,NJ
+56,Tinton Falls,,17,29,17892,NJ
+57,Colonia,7067.0,42,38,17795,NJ
+58,Lindenwold,,40,46,17613,NJ
+59,Dumont,7628.0,55,45,17479,NJ
+60,Avenel,7001.0,48,40,17011,NJ
+0,Manchester (the largest city in New Hampshire),3103.0,51,42,109565,NH
+1,Nashua,3060.0,39,35,86494,NH
+2,Concord,3301.0,35,37,42695,NH
+3,Dover,,33,34,29987,NH
+4,Rochester,3868.0,23,33,29752,NH
+5,Keene,,45,51,23409,NH
+6,Derry,,28,35,22015,NH
+7,Portsmouth,,47,46,20779,NH
+0,Las Vegas (the largest city in Nevada),89108.0,42,46,583756,NV
+1,Henderson,89074.0,30,44,257729,NV
+2,Reno,89509.0,40,52,225221,NV
+3,Paradise,89119.0,50,50,223167,NV
+4,North Las Vegas,89031.0,34,48,216961,NV
+5,Sunrise Manor,89142.0,36,48,189372,NV
+6,Spring Valley,89147.0,44,43,178395,NV
+7,Enterprise,89139.0,25,36,108481,NV
+8,Sparks,89431.0,41,52,90264,NV
+9,Carson City,89701.0,36,55,55274,NV
+10,Whitney,,28,45,38585,NV
+11,Pahrump,89060.0,5,31,36441,NV
+12,Winchester,,54,53,27978,NV
+13,Summerlin South,,22,34,24085,NV
+14,Fernley,,15,37,19368,NV
+15,Sun Valley,89433.0,19,31,19299,NV
+16,Elko,,36,40,18297,NV
+0,Omaha (the largest city in Nebraska),68104.0,48,42,408958,NE
+1,Lincoln,68521.0,44,59,258379,NE
+2,Bellevue,,33,29,50137,NE
+3,Grand Island,,39,49,48520,NE
+4,Kearney,,42,47,30787,NE
+5,Fremont,,46,49,26397,NE
+6,Hastings,,38,47,24907,NE
+7,North Platte,,40,40,24733,NE
+8,Norfolk,,40,43,24210,NE
+9,Columbus,,42,43,22111,NE
+10,Papillion,,39,43,18894,NE
+0,Billings (the largest city in Montana),59102.0,35,47,104170,MT
+1,Missoula,59801.0,45,60,66788,MT
+2,Great Falls,59401.0,44,43,58505,MT
+3,Bozeman,,47,62,37280,MT
+4,Butte-Silver Bow,,38,45,33525,MT
+5,Helena,,49,45,28190,MT
+6,Kalispell,,42,46,19927,MT
+0,Kansas City (the largest city in Missouri),64114.0,35,35,459787,MO
+1,St. Louis,63116.0,66,58,319294,MO
+2,Springfield,65804.0,39,51,159498,MO
+3,Independence,64055.0,28,28,116830,MO
+4,Columbia,,30,40,108500,MO
+5,Lee's Summit,64081.0,20,29,91364,MO
+6,O'Fallon,,22,27,79329,MO
+7,St. Joseph,64506.0,32,27,76780,MO
+8,St. Charles,,33,30,65794,MO
+9,St. Peters,,27,36,52575,MO
+10,Blue Springs,,25,31,52575,MO
+11,Florissant,,39,39,52158,MO
+12,Joplin,,35,44,50150,MO
+13,Chesterfield,63017.0,19,23,47484,MO
+14,Jefferson City,,24,23,43079,MO
+15,Cape Girardeau,63703.0,30,31,37941,MO
+16,Oakville,,17,18,36143,MO
+17,Wildwood,63040.0,9,17,35517,MO
+18,University City,63130.0,58,52,35371,MO
+19,Ballwin,,20,21,30404,MO
+20,Raytown,,28,28,29526,MO
+21,Liberty,,23,25,29149,MO
+22,Wentzville,,10,23,29070,MO
+23,Mehlville,,32,28,28380,MO
+24,Kirkwood,,37,32,27540,MO
+25,Maryland Heights,63043.0,26,25,27472,MO
+26,Hazelwood,63042.0,30,30,25703,MO
+27,Gladstone,,33,33,25410,MO
+28,Grandview,64030.0,19,29,24475,MO
+29,Belton,,22,32,23116,MO
+30,Webster Groves,,49,40,22995,MO
+31,Sedalia,,43,44,21387,MO
+32,Ferguson,63135.0,33,32,21203,MO
+33,Arnold,,21,17,20808,MO
+34,Affton,,37,35,20307,MO
+35,Spanish Lake,,23,27,19650,MO
+36,Rolla,,39,47,19559,MO
+37,Raymore,,17,26,19206,MO
+38,Old Jamestown,,12,22,19184,MO
+39,Nixa,,21,31,19022,MO
+40,Warrensburg,,36,44,18838,MO
+41,Manchester,,26,21,18094,MO
+42,Hannibal,,32,28,17916,MO
+43,Creve Coeur,,27,24,17833,MO
+44,Ozark,,16,24,17820,MO
+45,Kirksville,,35,53,17505,MO
+46,Poplar Bluff,,34,37,17023,MO
+47,Lemay,,46,42,16645,MO
+0,Jackson (the largest city in Mississippi),39212.0,26,33,173514,MS
+1,Gulfport,39501.0,23,37,67793,MS
+2,Southaven,38671.0,19,28,48982,MS
+3,Hattiesburg,,34,48,45989,MS
+4,Biloxi,39531.0,31,41,44054,MS
+5,Meridian,,26,33,41148,MS
+6,Tupelo,,21,29,34546,MS
+7,Greenville,,32,39,34400,MS
+8,Olive Branch,,14,27,33484,MS
+9,Horn Lake,38637.0,21,31,26066,MS
+10,Clinton,,19,28,25216,MS
+11,Pearl,,18,30,25092,MS
+12,Madison,,7,26,24149,MS
+13,Ridgeland,,31,39,24047,MS
+14,Starkville,,29,33,23888,MS
+15,Vicksburg,,20,25,23856,MS
+16,Columbus,,30,39,23640,MS
+17,Pascagoula,39567.0,33,39,22392,MS
+18,Brandon,,11,25,21705,MS
+19,Oxford,,22,37,18916,MS
+20,Gautier,39553.0,8,28,18572,MS
+21,Laurel,,31,33,18540,MS
+22,Clarksdale,,30,41,17962,MS
+23,Ocean Springs,,25,37,17442,MS
+0,Minneapolis (the largest city in Minnesota),55407.0,71,83,382578,MN
+1,St. Paul,55106.0,60,64,285068,MN
+2,Rochester,,30,57,106769,MN
+3,Duluth,55812.0,36,43,86265,MN
+4,Bloomington,55420.0,29,42,82893,MN
+5,Brooklyn Park,55443.0,28,45,75781,MN
+6,Plymouth,55447.0,18,41,70576,MN
+7,St. Cloud,,34,49,65842,MN
+8,Eagan,55122.0,23,37,64206,MN
+9,Woodbury,55125.0,20,36,61961,MN
+10,Maple Grove,55311.0,13,46,61567,MN
+11,Coon Rapids,55433.0,25,46,61476,MN
+12,Eden Prairie,55347.0,18,48,60797,MN
+13,Burnsville,55337.0,32,39,60306,MN
+14,Blaine,55434.0,23,40,57186,MN
+15,Lakeville,,14,37,55954,MN
+16,Minnetonka,55345.0,21,37,49734,MN
+17,Apple Valley,55124.0,21,38,49084,MN
+18,Edina,55436.0,37,49,47941,MN
+19,St. Louis Park,55426.0,50,64,45250,MN
+20,Mankato,,40,51,39309,MN
+21,Moorhead,,34,58,38065,MN
+22,Maplewood,,24,39,38018,MN
+23,Shakopee,,29,53,37076,MN
+24,Richfield,55423.0,58,67,35228,MN
+25,Cottage Grove,55016.0,16,33,34589,MN
+26,Inver Grove Heights,55076.0,18,28,33880,MN
+27,Roseville,55113.0,35,47,33660,MN
+28,Andover,,12,39,30598,MN
+29,Brooklyn Center,,31,50,30104,MN
+30,Winona,,46,54,27592,MN
+31,Oakdale,55128.0,21,36,27378,MN
+32,Fridley,,38,47,27208,MN
+33,Savage,55378.0,22,46,26911,MN
+34,Owatonna,,25,36,25599,MN
+35,Shoreview,55126.0,17,38,25043,MN
+36,Austin,,37,57,24718,MN
+37,White Bear Lake,,36,45,23797,MN
+38,Chaska,,22,41,23770,MN
+39,Ramsey,,8,40,23668,MN
+40,Faribault,,29,42,23352,MN
+41,Champlin,55316.0,20,49,23089,MN
+42,Elk River,,15,32,22974,MN
+43,Chanhassen,55317.0,16,47,22952,MN
+44,Prior Lake,,14,41,22796,MN
+45,Hastings,,30,40,22172,MN
+46,Crystal,,44,52,22151,MN
+47,Rosemount,,20,43,21874,MN
+48,New Brighton,,35,44,21456,MN
+49,Farmington,,20,40,21086,MN
+50,Golden Valley,,28,53,20371,MN
+51,New Hope,,42,50,20339,MN
+52,Lino Lakes,,8,35,20216,MN
+53,South St. Paul,55075.0,39,39,20160,MN
+54,Northfield,,31,50,20007,MN
+55,Willmar,,34,52,19610,MN
+56,West St. Paul,,45,45,19540,MN
+57,Columbia Heights,,53,51,19496,MN
+58,Forest Lake,,18,36,18375,MN
+59,Stillwater,,36,42,18225,MN
+60,Albert Lea,,28,42,18016,MN
+61,Hopkins,,58,70,17591,MN
+62,Anoka,,42,53,17142,MN
+0,Detroit (the largest city in Michigan),48228.0,51,52,713777,MI
+1,Grand Rapids,49504.0,56,52,188040,MI
+2,Warren,48089.0,44,44,134056,MI
+3,Sterling Heights,48310.0,33,37,129699,MI
+4,Lansing,48915.0,46,55,114297,MI
+5,Ann Arbor,48104.0,52,71,113934,MI
+6,Flint,48503.0,44,44,102434,MI
+7,Dearborn,48126.0,58,47,98153,MI
+8,Livonia,48154.0,36,45,96942,MI
+9,Westland,48185.0,40,45,84094,MI
+10,Troy,48085.0,29,41,80980,MI
+11,Farmington Hills,48336.0,25,36,79740,MI
+12,Kalamazoo,49001.0,47,50,74262,MI
+13,Wyoming,49509.0,39,42,72125,MI
+14,Southfield,48034.0,34,39,71739,MI
+15,Rochester Hills,48309.0,20,32,70995,MI
+16,Taylor,48180.0,36,38,63131,MI
+17,St. Clair Shores,48080.0,47,42,59715,MI
+18,Pontiac,48340.0,41,43,59515,MI
+19,Dearborn Heights,48127.0,47,49,57774,MI
+20,Royal Oak,48073.0,57,53,57236,MI
+21,Novi,48375.0,19,45,55224,MI
+22,Battle Creek,,37,38,52347,MI
+23,Saginaw,48602.0,42,47,51508,MI
+24,Kentwood,,25,41,48707,MI
+25,East Lansing,48825.0,54,80,48579,MI
+26,Roseville,48066.0,47,45,47299,MI
+27,Portage,49024.0,20,46,46292,MI
+28,Midland,,30,47,41863,MI
+29,Muskegon,49440.0,42,50,38401,MI
+30,Lincoln Park,48146.0,60,50,38144,MI
+31,Bay City,,54,54,34932,MI
+32,Jackson,,47,58,33534,MI
+33,Holland,,47,60,33051,MI
+34,Eastpointe,48021.0,57,47,32442,MI
+35,Port Huron,,47,47,30184,MI
+36,Southgate,48195.0,49,45,30047,MI
+37,Burton,48529.0,24,33,29999,MI
+38,Madison Heights,48071.0,57,48,29694,MI
+39,Oak Park,48237.0,45,42,29319,MI
+40,Allen Park,48101.0,51,44,28210,MI
+41,Garden City,48135.0,50,44,27692,MI
+42,Mount Pleasant,,54,56,26016,MI
+43,Wyandotte,,60,49,25883,MI
+44,Forest Hills,,8,26,25867,MI
+45,Inkster,48141.0,33,37,25369,MI
+46,Norton Shores,,15,31,23994,MI
+47,Romulus,,16,32,23989,MI
+48,Holt,,18,41,23973,MI
+49,Waverly,,29,43,23925,MI
+50,Walker,,22,34,23537,MI
+51,Hamtramck,,82,54,22423,MI
+52,Auburn Hills,48326.0,26,42,21412,MI
+53,Okemos,,20,40,21369,MI
+54,Marquette,,47,60,21355,MI
+55,Adrian,,47,52,21133,MI
+56,Monroe,,48,46,20733,MI
+57,Birmingham,48009.0,60,47,20103,MI
+58,Ferndale,48220.0,67,67,19900,MI
+59,Ypsilanti,,62,66,19435,MI
+60,Haslett,,20,43,19220,MI
+61,Trenton,,40,40,18853,MI
+62,Wayne,,43,42,17593,MI
+63,Allendale,,18,32,17579,MI
+64,Jenison,,23,39,16538,MI
+0,Boston (the largest city in Massachusetts),2124.0,83,69,617594,MA
+1,Worcester,1604.0,56,35,181045,MA
+2,Springfield,1109.0,58,45,153060,MA
+3,Lowell,1852.0,67,44,106519,MA
+4,Cambridge,2138.0,90,96,105162,MA
+5,New Bedford,2740.0,65,49,95072,MA
+6,Brockton,2301.0,51,43,93810,MA
+7,Quincy,2169.0,63,42,92271,MA
+8,Lynn,1902.0,70,45,90329,MA
+9,Fall River,2720.0,65,48,88857,MA
+10,Newton,2459.0,57,47,85146,MA
+11,Lawrence,1841.0,72,44,76377,MA
+12,Somerville,2145.0,89,90,75754,MA
+13,Framingham,1702.0,42,37,68318,MA
+14,Haverhill,1830.0,41,33,60879,MA
+15,Waltham,2453.0,57,47,60632,MA
+16,Malden,2148.0,73,49,59450,MA
+17,Brookline,2446.0,81,74,58732,MA
+18,Medford,2155.0,68,59,56173,MA
+19,Taunton,2780.0,30,34,55874,MA
+20,Chicopee,1020.0,42,37,55298,MA
+21,Weymouth Town,2190.0,37,34,53743,MA
+22,Revere,2151.0,67,44,51755,MA
+23,Peabody,1960.0,43,35,51251,MA
+24,Methuen Town,1844.0,38,31,47255,MA
+25,Barnstable Town,2601.0,24,32,45193,MA
+26,Pittsfield,,40,39,44737,MA
+27,Attleboro,2703.0,33,38,43593,MA
+28,Arlington,2474.0,64,65,42844,MA
+29,Everett,2149.0,83,50,41667,MA
+30,Salem,1970.0,70,54,41340,MA
+31,Westfield,,29,36,41094,MA
+32,Leominster,1453.0,41,30,40759,MA
+33,Fitchburg,1420.0,43,33,40318,MA
+34,Holyoke,1040.0,55,41,39880,MA
+35,Beverly,1915.0,51,37,39502,MA
+36,Marlborough,1752.0,41,29,38499,MA
+37,Woburn,1801.0,46,34,38120,MA
+38,Braintree Town,2184.0,38,32,35744,MA
+39,Chelsea,2150.0,81,45,35177,MA
+40,Randolph,2368.0,35,41,32112,MA
+41,Watertown Town,2472.0,76,68,31915,MA
+42,Franklin Town,2038.0,22,25,31635,MA
+43,Lexington,2421.0,33,44,31394,MA
+44,Needham,2492.0,39,35,28886,MA
+45,Gloucester,1930.0,42,29,28789,MA
+46,Norwood,2062.0,49,40,28602,MA
+47,Northampton,1060.0,44,63,28549,MA
+48,Agawam Town,1001.0,23,35,28438,MA
+49,West Springfield Town,1089.0,35,35,28391,MA
+50,Wellesley,2481.0,37,33,27982,MA
+51,Milton,2186.0,37,48,27003,MA
+52,Melrose,2176.0,62,39,26983,MA
+53,Saugus,1906.0,42,29,26628,MA
+54,Danvers,1923.0,37,33,26493,MA
+55,Milford,,42,41,25055,MA
+56,Wakefield,1880.0,49,39,24932,MA
+57,Reading,1867.0,35,35,24747,MA
+58,Belmont,2478.0,60,61,24729,MA
+59,Dedham,2026.0,43,35,24729,MA
+60,Burlington,1803.0,31,29,24498,MA
+61,Wilmington,1887.0,23,30,22325,MA
+62,Stoneham,2180.0,45,39,21437,MA
+63,Winchester,1890.0,40,44,21374,MA
+64,Gardner,1440.0,39,25,20228,MA
+65,Marblehead,1945.0,49,36,19808,MA
+66,Amherst Center,1003.0,52,55,19065,MA
+67,Somerset,2726.0,29,34,18165,MA
+68,Winthrop Town,,60,41,17497,MA
+69,Greenfield Town,,42,38,17456,MA
+70,Newburyport,1950.0,52,44,17416,MA
+71,Southbridge Town,1550.0,39,29,16719,MA
+0,Baltimore (the largest city in Maryland),21215.0,64,53,620961,MD
+1,Columbia,21044.0,33,32,99615,MD
+2,Germantown,,36,45,86395,MD
+3,Silver Spring,20910.0,63,58,71452,MD
+4,Waldorf,,19,34,67752,MD
+5,Glen Burnie,,36,41,67639,MD
+6,Ellicott City,,23,23,65834,MD
+7,Frederick,,47,47,65239,MD
+8,Dundalk,21222.0,49,43,63597,MD
+9,Rockville,,56,58,61209,MD
+10,Bethesda,,45,57,60858,MD
+11,Gaithersburg,,52,51,59933,MD
+12,Towson,21204.0,50,36,55197,MD
+13,Bowie,,25,38,54727,MD
+14,Aspen Hill,,29,37,48759,MD
+15,Wheaton,,48,44,48284,MD
+16,Bel Air South,,22,24,47709,MD
+17,Potomac,,16,25,44965,MD
+18,Severn,,17,30,44231,MD
+19,North Bethesda,,50,55,43828,MD
+20,Catonsville,,38,34,41567,MD
+21,Hagerstown,,52,51,39662,MD
+22,Essex,,40,38,39262,MD
+23,Annapolis,,48,58,38394,MD
+24,Woodlawn,,38,33,37879,MD
+25,Severna Park,21146.0,20,29,37634,MD
+26,Odenton,,26,37,37132,MD
+27,Clinton,20735.0,13,24,35970,MD
+28,Olney,20832.0,23,44,33844,MD
+29,Chillum,,54,55,33513,MD
+30,Randallstown,,23,27,32430,MD
+31,Montgomery Village,,39,34,32032,MD
+32,Pikesville,,33,28,30764,MD
+33,Parkville,,58,41,30734,MD
+34,Owings Mills,,35,24,30622,MD
+35,Bel Air North,,17,27,30568,MD
+36,Eldersburg,,14,18,30531,MD
+37,College Park,,53,70,30413,MD
+38,Salisbury,,44,44,30343,MD
+39,Carney,,42,28,29941,MD
+40,Milford Mill,,37,32,29042,MD
+41,Perry Hall,,29,25,28474,MD
+42,Crofton,21114.0,29,31,27348,MD
+43,South Laurel,,31,31,26112,MD
+44,Reisterstown,,37,31,25968,MD
+45,Suitland,,37,30,25825,MD
+46,Edgewood,21040.0,21,26,25562,MD
+47,Lochearn,,26,26,25333,MD
+48,Middle River,,35,37,25191,MD
+49,Laurel,,53,40,25115,MD
+50,North Potomac,,20,32,24410,MD
+51,Scaggsville,,25,25,24333,MD
+52,Pasadena,,25,31,24287,MD
+53,Fort Washington,,16,19,23717,MD
+54,Fairland,,23,41,23681,MD
+55,Ilchester,,20,21,23476,MD
+56,Arnold,21012.0,15,19,23106,MD
+57,Landover,,48,30,23078,MD
+58,Greenbelt,,41,48,23068,MD
+59,Cumberland,,48,34,20859,MD
+60,Cockeysville,,33,26,20776,MD
+61,Arbutus,,42,33,20483,MD
+62,Lake Shore,,14,25,19477,MD
+63,Rosedale,,34,27,19257,MD
+64,Camp Springs,,22,28,19096,MD
+65,Langley Park,,72,51,18755,MD
+66,Westminster,,38,33,18590,MD
+67,Ballenger Creek,,27,39,18274,MD
+68,Calverton,,27,35,17724,MD
+69,Oxon Hill,,23,25,17722,MD
+70,Hyattsville,,69,73,17557,MD
+71,White Oak,,41,30,17403,MD
+72,Glassmanor,,32,21,17295,MD
+73,Seabrook,,30,39,17287,MD
+74,Redland,,26,34,17242,MD
+75,Beltsville,,39,42,16772,MD
+76,Ferndale,,39,38,16746,MD
+77,Takoma Park,,70,68,16715,MD
+0,Portland (the largest city in Maine),4103.0,62,68,66194,ME
+1,Lewiston,4240.0,46,41,36592,ME
+2,Bangor,,40,36,33039,ME
+3,South Portland,4106.0,44,61,25002,ME
+4,Auburn,4210.0,35,31,23055,ME
+5,Biddeford,,42,42,21277,ME
+6,Augusta,,27,30,19136,ME
+7,Saco,4072.0,24,38,18482,ME
+8,Westbrook,4092.0,31,46,17494,ME
+0,New Orleans (the largest city in Louisiana),70119.0,58,66,343829,LA
+1,Baton Rouge,70808.0,39,44,229493,LA
+2,Shreveport,71105.0,31,37,199311,LA
+3,Metairie,70003.0,54,48,138481,LA
+4,Lafayette,,42,47,120623,LA
+5,Lake Charles,70601.0,37,44,71993,LA
+6,Kenner,70065.0,46,46,66702,LA
+7,Bossier City,,31,39,61315,LA
+8,Monroe,71201.0,32,41,48815,LA
+9,Alexandria,,30,41,47723,LA
+10,Houma,,40,44,33727,LA
+11,Marrero,,43,43,33141,LA
+12,New Iberia,,43,48,30617,LA
+13,Laplace,70068.0,24,36,29872,LA
+14,Slidell,,36,45,27068,LA
+15,Prairieville,,12,30,26895,LA
+16,Central,70818.0,7,27,26864,LA
+17,Terrytown,,53,43,23319,LA
+18,Ruston,,25,28,21859,LA
+19,Sulphur,,30,38,20410,LA
+20,Harvey,,43,42,20348,LA
+21,Hammond,,32,45,20019,LA
+22,Bayou Cane,,39,45,19355,LA
+23,Shenandoah,,23,33,18399,LA
+24,Natchitoches,,32,43,18323,LA
+25,Gretna,70053.0,65,54,17736,LA
+26,Chalmette,,48,44,16751,LA
+27,Opelousas,,44,45,16634,LA
+0,Louisville-Jefferson (the largest city in Kentucky),40214.0,34,43,597337,KY
+1,Lexington-Fayette,40517.0,34,46,295803,KY
+2,Bowling Green,,37,39,58067,KY
+3,Owensboro,,36,47,57265,KY
+4,Covington,41014.0,42,40,40640,KY
+5,Hopkinsville,,24,31,31577,KY
+6,Richmond,,35,32,31364,KY
+7,Florence,,33,31,29951,KY
+8,Georgetown,,23,28,29098,KY
+9,Henderson,,32,37,28757,KY
+10,Elizabethtown,,27,28,28531,KY
+11,Nicholasville,,27,31,28015,KY
+12,Jeffersontown,,30,37,26595,KY
+13,Frankfort,,29,25,25527,KY
+14,Paducah,,38,38,25024,KY
+15,Independence,,11,13,24757,KY
+16,Radcliff,,19,29,21688,KY
+17,Ashland,,31,28,21684,KY
+18,Madisonville,,20,27,19591,KY
+19,Winchester,,36,30,18368,KY
+20,Erlanger,,21,23,18082,KY
+21,Murray,,33,38,17741,KY
+22,St. Matthews,,50,47,17472,KY
+0,Wichita (the largest city in Kansas),67212.0,35,44,382368,KS
+1,Overland Park,66212.0,35,46,173372,KS
+2,Kansas City,66102.0,32,28,145786,KS
+3,Topeka,66604.0,37,54,127473,KS
+4,Olathe,,30,50,125872,KS
+5,Lawrence,,41,61,87643,KS
+6,Shawnee,66216.0,24,33,62209,KS
+7,Manhattan,66506.0,39,54,52281,KS
+8,Lenexa,66215.0,33,44,48190,KS
+9,Salina,,39,45,47707,KS
+10,Hutchinson,,35,42,42080,KS
+11,Leavenworth,66027.0,29,35,35251,KS
+12,Leawood,66206.0,22,32,31867,KS
+13,Dodge City,,34,38,27340,KS
+14,Garden City,,37,48,26658,KS
+15,Emporia,,45,45,24916,KS
+16,Junction City,,31,35,23353,KS
+17,Derby,,32,36,22158,KS
+18,Prairie Village,,42,37,21447,KS
+19,Liberal,,41,42,20525,KS
+20,Hays,,39,41,20510,KS
+21,Pittsburg,,36,55,20233,KS
+22,Newton,,34,48,19132,KS
+23,Gardner,,24,38,19123,KS
+0,Des Moines (the largest city in Iowa),50315.0,45,39,203433,IA
+1,Cedar Rapids,52402.0,34,41,126326,IA
+2,Davenport,52806.0,44,40,99685,IA
+3,Sioux City,51104.0,40,36,82684,IA
+4,Waterloo,50702.0,37,47,68406,IA
+5,Iowa City,52245.0,45,66,67862,IA
+6,Council Bluffs,51501.0,37,45,62230,IA
+7,Ames,,42,69,58965,IA
+8,Dubuque,,40,34,57637,IA
+9,West Des Moines,50265.0,34,37,56609,IA
+10,Ankeny,,34,39,45582,IA
+11,Urbandale,50322.0,32,38,39463,IA
+12,Cedar Falls,,38,56,39260,IA
+13,Marion,,32,38,34768,IA
+14,Bettendorf,,29,39,33217,IA
+15,Mason City,,37,50,28079,IA
+16,Marshalltown,,43,47,27552,IA
+17,Clinton,,38,39,26885,IA
+18,Burlington,,41,37,25663,IA
+19,Fort Dodge,,34,42,25206,IA
+20,Ottumwa,,35,37,25023,IA
+21,Muscatine,,38,38,22886,IA
+22,Coralville,52241.0,33,46,18907,IA
+23,Johnston,,21,30,17278,IA
+0,Indianapolis (the largest city in Indiana),46227.0,31,43,820445,IN
+1,Fort Wayne,46815.0,32,41,253691,IN
+2,Evansville,47714.0,44,43,117429,IN
+3,South Bend,46615.0,42,58,101168,IN
+4,Hammond,46324.0,52,54,80830,IN
+5,Bloomington,47405.0,43,58,80405,IN
+6,Gary,46404.0,32,39,80294,IN
+7,Carmel,46032.0,19,54,79191,IN
+8,Fishers,46038.0,18,52,76794,IN
+9,Muncie,47305.0,38,53,70085,IN
+10,Lafayette,47904.0,38,43,67140,IN
+11,Terre Haute,47807.0,40,48,60785,IN
+12,Anderson,46016.0,34,40,56129,IN
+13,Noblesville,,15,44,51969,IN
+14,Elkhart,,38,47,50949,IN
+15,Greenwood,,25,40,49791,IN
+16,Mishawaka,,44,47,48252,IN
+17,Lawrence,46236.0,24,39,46001,IN
+18,Kokomo,,40,47,45468,IN
+19,Jeffersonville,47130.0,24,37,44953,IN
+20,Columbus,,29,48,44061,IN
+21,Portage,46368.0,18,40,36828,IN
+22,Richmond,,37,46,36812,IN
+23,New Albany,,37,41,36372,IN
+24,Merrillville,,23,39,35246,IN
+25,Valparaiso,,39,46,31730,IN
+26,Goshen,,30,50,31719,IN
+27,Michigan City,,41,41,31479,IN
+28,Granger,46530.0,7,27,30465,IN
+29,Westfield,,15,51,30068,IN
+30,Marion,,40,45,29948,IN
+31,East Chicago,46312.0,56,52,29698,IN
+32,West Lafayette,,51,63,29596,IN
+33,Schererville,46375.0,23,37,29243,IN
+34,Hobart,,25,37,29059,IN
+35,Plainfield,,22,46,27631,IN
+36,Crown Point,,27,39,27317,IN
+37,Highland,46322.0,48,55,23727,IN
+38,Franklin,,27,41,23712,IN
+39,Munster,46321.0,36,49,23603,IN
+40,La Porte,,41,52,22053,IN
+41,Clarksville,47129.0,37,40,21724,IN
+42,Brownsburg,,21,36,21285,IN
+43,Greenfield,,30,42,20602,IN
+44,Shelbyville,,40,42,19191,IN
+45,Vincennes,,45,44,18423,IN
+46,Logansport,,51,43,18396,IN
+47,New Castle,,37,38,18114,IN
+48,Seymour,,37,42,17503,IN
+49,Huntington,,43,38,17391,IN
+50,Griffith,,39,45,16893,IN
+0,Chicago (the largest city in Illinois),60629.0,77,72,2695598,IL
+1,Aurora,60505.0,40,52,197899,IL
+2,Rockford,61104.0,41,43,152871,IL
+3,Joliet,,35,44,147433,IL
+4,Naperville,,34,45,141853,IL
+5,Springfield,62704.0,38,45,116250,IL
+6,Peoria,61614.0,41,44,115007,IL
+7,Elgin,,43,51,108188,IL
+8,Waukegan,,49,42,89078,IL
+9,Cicero,60804.0,75,55,83891,IL
+10,Champaign,61820.0,52,65,81055,IL
+11,Bloomington,61701.0,35,47,76610,IL
+12,Decatur,62523.0,34,39,76122,IL
+13,Arlington Heights,60004.0,48,59,75101,IL
+14,Evanston,60201.0,76,89,74486,IL
+15,Schaumburg,60193.0,43,66,74227,IL
+16,Bolingbrook,60440.0,34,47,73366,IL
+17,Palatine,,41,51,68557,IL
+18,Skokie,60076.0,68,70,64784,IL
+19,Des Plaines,,57,54,58364,IL
+20,Orland Park,,28,43,56767,IL
+21,Tinley Park,,35,42,56703,IL
+22,Oak Lawn,60453.0,58,49,56690,IL
+23,Berwyn,,75,57,56657,IL
+24,Mount Prospect,60056.0,53,59,54167,IL
+25,Wheaton,,40,51,52894,IL
+26,Normal,,40,51,52497,IL
+27,Hoffman Estates,60192.0,35,55,51895,IL
+28,Oak Park,60302.0,78,66,51878,IL
+29,Downers Grove,,44,49,47833,IL
+30,Glenview,,39,42,44692,IL
+31,Belleville,,39,43,44478,IL
+32,Elmhurst,60126.0,48,52,44121,IL
+33,DeKalb,,38,61,43862,IL
+34,Moline,,44,38,43483,IL
+35,Lombard,,45,51,43165,IL
+36,Buffalo Grove,60089.0,40,52,41496,IL
+37,Urbana,61801.0,52,71,41250,IL
+38,Bartlett,,22,49,41208,IL
+39,Crystal Lake,,30,45,40743,IL
+40,Quincy,62301.0,41,44,40633,IL
+41,Streamwood,60107.0,36,48,39858,IL
+42,Carol Stream,60188.0,36,53,39711,IL
+43,Romeoville,60446.0,25,39,39680,IL
+44,Plainfield,,20,44,39581,IL
+45,Rock Island,61201.0,44,42,39018,IL
+46,Hanover Park,,46,57,37973,IL
+47,Carpentersville,,31,39,37691,IL
+48,Wheeling,60090.0,44,47,37648,IL
+49,Park Ridge,60068.0,54,53,37480,IL
+50,Calumet City,60409.0,55,50,37042,IL
+51,Addison,60101.0,47,51,36942,IL
+52,Glendale Heights,60139.0,38,46,34208,IL
+53,Pekin,,39,43,34094,IL
+54,Northbrook,,35,44,33170,IL
+55,Elk Grove Village,,43,52,33127,IL
+56,Danville,,30,42,33027,IL
+57,St. Charles,,37,50,32974,IL
+58,Woodridge,60517.0,32,53,32971,IL
+59,North Chicago,60064.0,36,44,32574,IL
+60,Galesburg,,37,42,32195,IL
+61,Gurnee,,23,35,31295,IL
+62,Mundelein,,38,49,31064,IL
+63,Oswego,,24,50,30355,IL
+64,Chicago Heights,,51,52,30276,IL
+65,Algonquin,,26,49,30046,IL
+66,Granite City,,39,43,29849,IL
+67,Niles,60714.0,65,55,29803,IL
+68,Highland Park,60035.0,42,52,29763,IL
+69,Lake in the Hills,,20,48,28965,IL
+70,Burbank,60459.0,59,48,28925,IL
+71,Lansing,,48,50,28331,IL
+72,O'Fallon,,25,35,28281,IL
+73,Round Lake Beach,,45,43,28175,IL
+74,Oak Forest,,36,39,27962,IL
+75,Alton,,39,26,27865,IL
+76,Kankakee,,48,43,27537,IL
+77,Glen Ellyn,,50,51,27450,IL
+78,Wilmette,60091.0,58,56,27087,IL
+79,West Chicago,,38,48,27086,IL
+80,East St. Louis,,29,42,27006,IL
+81,McHenry,,27,43,26992,IL
+82,Batavia,,29,52,26045,IL
+83,Carbondale,,42,49,25902,IL
+84,Freeport,,42,43,25638,IL
+85,Belvidere,,38,43,25585,IL
+86,Collinsville,,34,26,25579,IL
+87,Melrose Park,60160.0,68,51,25411,IL
+88,Harvey,,51,46,25282,IL
+89,Vernon Hills,60061.0,28,45,25113,IL
+90,Elmwood Park,,69,55,24883,IL
+91,Lockport,,26,36,24839,IL
+92,Woodstock,,29,39,24770,IL
+93,Westmont,60559.0,52,47,24685,IL
+94,Zion,,40,46,24413,IL
+95,New Lenox,,24,41,24394,IL
+96,Edwardsville,,31,44,24293,IL
+97,Huntley,,13,44,24291,IL
+98,Homer Glen,,14,33,24220,IL
+99,Rolling Meadows,,42,59,24099,IL
+100,Maywood,60153.0,54,56,24090,IL
+101,Loves Park,61111.0,31,41,23996,IL
+102,Blue Island,,63,46,23706,IL
+103,Machesney Park,61115.0,22,40,23499,IL
+104,East Peoria,,17,25,23402,IL
+105,Morton Grove,60053.0,60,55,23270,IL
+106,Dolton,60419.0,50,43,23153,IL
+107,Roselle,,35,58,22763,IL
+108,Lisle,,37,40,22390,IL
+109,Darien,60561.0,35,46,22086,IL
+110,South Holland,60473.0,43,40,22030,IL
+111,Bloomingdale,60108.0,43,58,22018,IL
+112,South Elgin,,32,50,21985,IL
+113,Park Forest,,29,45,21975,IL
+114,Villa Park,,49,49,21904,IL
+115,Charleston,,42,49,21838,IL
+116,Geneva,,38,57,21495,IL
+117,East Moline,,33,36,21302,IL
+118,Grayslake,,28,44,20957,IL
+119,Crest Hill,,27,41,20837,IL
+120,Libertyville,,39,51,20315,IL
+121,Evergreen Park,60805.0,64,53,19852,IL
+122,Lake Zurich,,34,40,19631,IL
+123,Jacksonville,,35,42,19446,IL
+124,Lake Forest,,18,39,19375,IL
+125,Homewood,,43,40,19323,IL
+126,Macomb,,36,40,19288,IL
+127,Alsip,60803.0,47,49,19277,IL
+128,Bellwood,60104.0,61,57,19071,IL
+129,Matteson,,21,42,19009,IL
+130,Brookfield,60513.0,61,56,18978,IL
+131,Ottawa,,40,44,18768,IL
+132,Mokena,,23,37,18740,IL
+133,Bourbonnais,,38,41,18631,IL
+134,Mattoon,,39,47,18555,IL
+135,Montgomery,,15,52,18438,IL
+136,Bensenville,,50,49,18352,IL
+137,Franklin Park,60131.0,64,47,18333,IL
+138,Round Lake,,20,39,18289,IL
+139,Cary,,24,44,18271,IL
+140,Deerfield,,36,41,18225,IL
+141,Godfrey,,12,25,17982,IL
+142,Frankfort,,19,44,17782,IL
+143,Sycamore,,29,46,17519,IL
+144,Palos Hills,,37,40,17484,IL
+145,Marion,,38,40,17193,IL
+146,Fairview Heights,62208.0,28,28,17078,IL
+147,Yorkville,,18,40,16921,IL
+148,Hinsdale,60521.0,43,41,16816,IL
+149,North Aurora,60542.0,21,42,16760,IL
+150,Westchester,60154.0,43,45,16718,IL
+151,Country Club Hills,,32,37,16541,IL
+0,Boise City (the largest city in Idaho),83704.0,38,62,205671,ID
+1,Nampa,,29,46,81557,ID
+2,Meridian,,26,41,75092,ID
+3,Idaho Falls,,42,49,56813,ID
+4,Pocatello,,37,42,54255,ID
+5,Caldwell,,24,38,46237,ID
+6,Coeur d'Alene,,35,50,44137,ID
+7,Twin Falls,,39,52,44125,ID
+8,Lewiston,,36,41,31894,ID
+9,Post Falls,,23,39,27574,ID
+10,Rexburg,,42,55,25484,ID
+11,Moscow,,48,58,23800,ID
+12,Eagle,,16,36,19908,ID
+0,Honolulu (the largest city in Hawaii),96817.0,66,51,337256,HI
+1,East Honolulu,96825.0,19,22,49914,HI
+2,Pearl City,,27,22,47698,HI
+3,Hilo,,23,31,43263,HI
+4,Kailua,,40,44,38635,HI
+5,Waipahu,,52,40,38216,HI
+6,Kaneohe,,39,28,34597,HI
+7,Mililani Town,,35,30,27629,HI
+8,Kahului,96732.0,29,38,26337,HI
+9,Ewa Gentry,,32,42,22690,HI
+10,Mililani Mauka,,17,17,21039,HI
+11,Kihei,,41,46,20881,HI
+12,Makakilo,,14,5,18248,HI
+13,Wahiawa,,39,32,17821,HI
+0,Atlanta (the largest city in Georgia),30318.0,48,42,420003,GA
+1,Augusta-Richmond County,30906.0,22,33,195844,GA
+2,Columbus,31907.0,25,31,189885,GA
+3,Savannah,,44,52,136286,GA
+4,Athens-Clarke County,30605.0,27,34,115452,GA
+5,Sandy Springs,30350.0,27,20,93853,GA
+6,Macon,31204.0,30,32,91351,GA
+7,Roswell,30076.0,22,22,88346,GA
+8,Albany,,23,34,77434,GA
+9,Johns Creek,,18,21,76728,GA
+10,Warner Robins,,21,33,66588,GA
+11,Alpharetta,,22,24,57551,GA
+12,Marietta,,36,27,56579,GA
+13,Valdosta,,30,45,54518,GA
+14,Smyrna,,34,28,51271,GA
+15,Dunwoody,30338.0,33,25,46267,GA
+16,North Atlanta,,46,27,40456,GA
+17,Mableton,,15,16,37115,GA
+18,Rome,,27,38,36303,GA
+19,Martinez,,23,23,35795,GA
+20,Peachtree City,30269.0,19,23,34364,GA
+21,Gainesville,,31,23,33804,GA
+22,East Point,30344.0,31,24,33712,GA
+23,Hinesville,,18,34,33437,GA
+24,Dalton,,30,34,33128,GA
+25,Newnan,,22,25,33039,GA
+26,Redan,,16,21,33015,GA
+27,Milton,,12,20,32661,GA
+28,Douglasville,,18,20,30961,GA
+29,Kennesaw,,26,23,29783,GA
+30,LaGrange,,26,28,29588,GA
+31,Evans,,10,19,29011,GA
+32,Lawrenceville,,28,28,28546,GA
+33,Statesboro,,32,48,28422,GA
+34,Tucker,,22,22,27581,GA
+35,Duluth,,31,21,26600,GA
+36,Stockbridge,,20,21,25636,GA
+37,Carrollton,,24,32,24388,GA
+38,Woodstock,,21,20,23896,GA
+39,Griffin,,31,33,23643,GA
+40,Candler-McAfee,,26,20,23025,GA
+41,Canton,,21,14,22958,GA
+42,McDonough,,21,27,22084,GA
+43,Acworth,,26,32,20425,GA
+44,Cartersville,,25,29,19731,GA
+45,Union City,30291.0,9,20,19456,GA
+46,Decatur,,60,69,19335,GA
+47,Pooler,31322.0,13,30,19140,GA
+48,North Druid Hills,,44,25,18947,GA
+49,Sugar Hill,,8,11,18522,GA
+50,Forest Park,,34,38,18468,GA
+51,Thomasville,,26,42,18413,GA
+52,Snellville,,17,24,18242,GA
+53,Milledgeville,,24,30,17715,GA
+54,St. Marys,,10,33,17121,GA
+55,Americus,,27,29,17041,GA
+56,North Decatur,,43,41,16698,GA
+0,Jacksonville (the largest city in Florida),32210.0,26,41,821784,FL
+1,Miami,33125.0,77,64,399457,FL
+2,Tampa,33604.0,50,55,335709,FL
+3,St. Petersburg,33710.0,43,59,244769,FL
+4,Orlando,32811.0,41,57,238300,FL
+5,Hialeah,33012.0,68,51,224669,FL
+6,Tallahassee,32301.0,30,45,181376,FL
+7,Fort Lauderdale,33308.0,56,56,165521,FL
+8,Port St. Lucie,34953.0,13,36,164603,FL
+9,Pembroke Pines,33028.0,32,41,154750,FL
+10,Cape Coral,33914.0,17,37,154305,FL
+11,Hollywood,33021.0,52,53,140768,FL
+12,Gainesville,32605.0,37,69,124354,FL
+13,Miramar,,28,40,122041,FL
+14,Coral Springs,33065.0,38,45,121096,FL
+15,Clearwater,33755.0,42,56,107685,FL
+16,Miami Gardens,33056.0,38,43,107167,FL
+17,Brandon,33511.0,24,39,103483,FL
+18,Palm Bay,32907.0,13,38,103190,FL
+19,West Palm Beach,33401.0,40,50,99919,FL
+20,Pompano Beach,33060.0,43,51,99845,FL
+21,Spring Hill,34609.0,15,32,98621,FL
+22,Lakeland,,35,51,97422,FL
+23,Davie,33314.0,27,43,91992,FL
+24,Miami Beach,33139.0,76,69,87779,FL
+25,Lehigh Acres,33971.0,7,28,86784,FL
+26,Deltona,,16,30,85182,FL
+27,Plantation,,29,42,84955,FL
+28,Sunrise,33351.0,37,44,84439,FL
+29,Boca Raton,33486.0,38,56,84392,FL
+30,Town 'n' Country,33615.0,33,44,78442,FL
+31,Alafaya,32828.0,17,42,78113,FL
+32,Largo,,43,52,77648,FL
+33,Melbourne,32935.0,33,45,76068,FL
+34,Kendall,33176.0,45,46,75371,FL
+35,Palm Coast,32164.0,6,32,75180,FL
+36,Deerfield Beach,33442.0,39,50,75018,FL
+37,Riverview,33569.0,15,37,71050,FL
+38,Boynton Beach,33435.0,34,44,68217,FL
+39,Lauderhill,,39,46,66887,FL
+40,Weston,33327.0,15,39,65333,FL
+41,Fort Myers,33901.0,35,48,62298,FL
+42,Daytona Beach,32114.0,37,51,61005,FL
+43,Delray Beach,33445.0,35,48,60522,FL
+44,Homestead,33035.0,32,45,60512,FL
+45,Tamarac,33321.0,30,51,60427,FL
+46,Pine Hills,,27,37,60076,FL
+47,Fountainebleau,,48,50,59764,FL
+48,Kissimmee,,30,49,59682,FL
+49,North Miami,33181.0,61,53,58786,FL
+50,Palm Harbor,34683.0,30,46,57439,FL
+51,North Port,34288.0,7,32,57357,FL
+52,Wellington,33414.0,19,34,56508,FL
+53,Ocala,,27,42,56315,FL
+54,Kendale Lakes,33183.0,44,50,56148,FL
+55,Port Orange,32129.0,20,38,56048,FL
+56,Tamiami,,39,42,55271,FL
+57,Jupiter,33477.0,27,46,55156,FL
+58,Port Charlotte,33952.0,16,37,54392,FL
+59,Sanford,,27,40,53570,FL
+60,Margate,33063.0,37,47,53284,FL
+61,Poinciana,,4,27,53193,FL
+62,Coconut Creek,33073.0,25,41,52909,FL
+63,Pensacola,32501.0,36,47,51923,FL
+64,Sarasota,34237.0,52,60,51917,FL
+65,The Villages,,8,45,51442,FL
+66,The Hammocks,,44,45,51003,FL
+67,Bradenton,,40,43,49546,FL
+68,Pinellas Park,33781.0,40,51,49079,FL
+69,Palm Beach Gardens,,21,35,48452,FL
+70,Country Club,,41,40,47105,FL
+71,Coral Gables,33146.0,56,56,46780,FL
+72,Doral,,39,53,45704,FL
+73,Wesley Chapel,33543.0,10,33,44092,FL
+74,Bonita Springs,,19,45,43914,FL
+75,Titusville,,25,41,43761,FL
+76,Fort Pierce,34950.0,36,50,41590,FL
+77,Apopka,,18,37,41542,FL
+78,North Miami Beach,,63,59,41523,FL
+79,Altamonte Springs,,35,44,41496,FL
+80,Oakland Park,,54,58,41363,FL
+81,University,,48,64,41163,FL
+82,North Lauderdale,,38,45,41023,FL
+83,Cutler Bay,,27,47,40286,FL
+84,North Fort Myers,33917.0,16,33,39407,FL
+85,The Acreage,,3,28,38704,FL
+86,Ormond Beach,,21,41,38137,FL
+87,Greenacres,,33,43,37573,FL
+88,Hallandale Beach,,54,61,37113,FL
+89,Panama City,,33,44,36484,FL
+90,Kendall West,,50,45,36154,FL
+91,Aventura,,43,55,35762,FL
+92,South Miami Heights,,40,49,35696,FL
+93,Ocoee,34761.0,19,37,35579,FL
+94,Valrico,,11,30,35545,FL
+95,Dunedin,34698.0,41,54,35321,FL
+96,Egypt Lake-Leto,,46,46,35282,FL
+97,St. Cloud,,25,44,35183,FL
+98,Lake Worth,33460.0,56,65,34910,FL
+99,Merritt Island,32952.0,24,35,34743,FL
+100,Plant City,33563.0,28,39,34721,FL
+101,West Little River,,51,48,34699,FL
+102,Winter Garden,,30,42,34568,FL
+103,Royal Palm Beach,,21,36,34140,FL
+104,Winter Haven,,25,41,33874,FL
+105,Carrollwood,,29,46,33365,FL
+106,Oviedo,,16,35,33342,FL
+107,Winter Springs,,16,35,33282,FL
+108,Golden Glades,,48,45,33145,FL
+109,Lauderdale Lakes,,41,42,32593,FL
+110,Riviera Beach,33404.0,32,52,32488,FL
+111,Land O' Lakes,,12,33,31996,FL
+112,Richmond West,,23,43,31973,FL
+113,Navarre,,11,35,31378,FL
+114,University - Central,,26,52,31084,FL
+115,East Lake,34685.0,10,35,30962,FL
+116,Lakeside,32065.0,20,38,30943,FL
+117,Westchester,,62,52,29862,FL
+118,Dania Beach,,52,60,29639,FL
+119,Fruit Cove,,8,31,29362,FL
+120,Miami Lakes,,35,38,29361,FL
+121,Ferry Pass,,21,44,28921,FL
+122,Clermont,,21,32,28742,FL
+123,Cooper City,,27,39,28547,FL
+124,Lake Magdalene,,25,38,28509,FL
+125,Winter Park,32789.0,44,51,27852,FL
+126,Fleming Island,32003.0,11,34,27126,FL
+127,DeLand,,33,50,27031,FL
+128,University Park,,58,56,26995,FL
+129,Casselberry,,33,48,26241,FL
+130,Four Corners,,13,30,26116,FL
+131,Buenaventura Lakes,34743.0,19,31,26079,FL
+132,Meadow Woods,,16,33,25558,FL
+133,Rockledge,,21,35,24926,FL
+134,Key West,,63,87,24649,FL
+135,Temple Terrace,,37,46,24541,FL
+136,Coral Terrace,,61,49,24376,FL
+137,Citrus Park,33625.0,23,43,24252,FL
+138,Immokalee,,23,42,24154,FL
+139,Keystone,,6,29,24039,FL
+140,Parkland,,13,34,23962,FL
+141,Golden Gate,,30,50,23961,FL
+142,Tarpon Springs,34689.0,28,43,23484,FL
+143,Bayonet Point,,23,42,23467,FL
+144,Palmetto Bay,,30,42,23410,FL
+145,Bellview,,15,32,23355,FL
+146,Wright,,37,43,23127,FL
+147,Palm City,,14,34,23120,FL
+148,Vero Beach South,,20,36,23092,FL
+149,The Crossings,,50,45,22758,FL
+150,East Lake-Orient Park,,24,45,22753,FL
+151,Bloomingdale,,15,35,22711,FL
+152,Oak Ridge,,40,52,22685,FL
+153,Leisure City,,35,43,22655,FL
+154,Estero,,13,41,22612,FL
+155,New Smyrna Beach,,24,47,22464,FL
+156,Holiday,,27,39,22403,FL
+157,South Bradenton,,47,43,22178,FL
+158,Northdale,,15,39,22079,FL
+159,Princeton,,27,37,22038,FL
+160,Wekiwa Springs,,17,33,21998,FL
+161,Sebastian,,15,30,21929,FL
+162,Brent,,21,38,21804,FL
+163,Westchase,,24,40,21747,FL
+164,Hialeah Gardens,,50,42,21744,FL
+165,Jacksonville Beach,32250.0,51,54,21362,FL
+166,West Pensacola,,36,49,21339,FL
+167,Palm River-Clair Mel,,28,45,21024,FL
+168,Crestview,,18,26,20978,FL
+169,Sunny Isles Beach,,60,55,20832,FL
+170,Edgewater,,15,42,20750,FL
+171,Venice,34285.0,31,56,20748,FL
+172,Ensley,,18,35,20602,FL
+173,Haines City,,22,35,20535,FL
+174,Oakleaf Plantation,,6,29,20315,FL
+175,Leesburg,,26,40,20117,FL
+176,Pace,,13,30,20039,FL
+177,Palm Valley,,17,37,20019,FL
+178,Lealman,,49,55,19879,FL
+179,Naples,34102.0,35,45,19537,FL
+180,Ives Estates,,41,42,19525,FL
+181,Fort Walton Beach,,38,44,19507,FL
+182,Lutz,33548.0,10,30,19344,FL
+183,DeBary,32713.0,16,36,19320,FL
+184,Sun City Center,33573.0,10,29,19258,FL
+185,Jasmine Estates,,39,48,18989,FL
+186,Palm Springs,,42,43,18928,FL
+187,Eustis,,25,35,18558,FL
+188,Lynn Haven,,24,38,18493,FL
+189,West Melbourne,,22,43,18355,FL
+190,Pinecrest,,29,45,18223,FL
+191,Florida Ridge,,12,30,18164,FL
+192,Ojus,,41,45,18036,FL
+193,Belle Glade,,31,40,17467,FL
+194,Bartow,,26,43,17298,FL
+195,Seminole,,37,52,17233,FL
+196,Ruskin,,14,35,17208,FL
+197,Cocoa,32922.0,36,41,17140,FL
+198,Glenvar Heights,,46,50,16898,FL
+199,Safety Harbor,34695.0,26,43,16884,FL
+200,San Carlos Park,,15,36,16824,FL
+201,Punta Gorda,,14,42,16641,FL
+0,"Washington, DC",,77,70,601723,DC
+0,Wilmington,,74,52,70851,DE
+1,Dover,,33,47,36047,DE
+2,Newark,,42,61,31454,DE
+3,Bear,,27,36,19371,DE
+4,Middletown,,29,41,18871,DE
+0,Bridgeport (the largest city in Connecticut),6606.0,66,49,144229,CT
+1,New Haven,6511.0,68,66,129779,CT
+2,Hartford,6106.0,67,54,124775,CT
+3,Stamford,6902.0,55,46,122643,CT
+4,Waterbury,6708.0,46,29,110366,CT
+5,Norwalk,6854.0,48,40,85603,CT
+6,Danbury,6810.0,37,28,80893,CT
+7,New Britain,6053.0,48,48,73206,CT
+8,West Hartford,6107.0,44,44,63268,CT
+9,Meriden,6450.0,40,33,60868,CT
+10,Bristol,6010.0,33,30,60477,CT
+11,West Haven,6516.0,48,39,55564,CT
+12,Stratford,6614.0,41,38,51384,CT
+13,Milford,6460.0,34,35,51271,CT
+14,East Hartford,6118.0,33,40,51252,CT
+15,Middletown,6457.0,28,28,47648,CT
+16,Norwich,6360.0,33,25,40493,CT
+17,Shelton,6484.0,18,19,39559,CT
+18,Torrington,6790.0,36,29,36383,CT
+19,Trumbull,6611.0,16,24,36018,CT
+20,Naugatuck,6770.0,28,19,31862,CT
+21,Manchester,,52,42,30577,CT
+22,Newington,6111.0,31,30,30562,CT
+23,East Haven,,34,29,29257,CT
+24,New London,6320.0,55,42,27620,CT
+25,Wethersfield,6109.0,30,36,26668,CT
+26,Westport,6880.0,21,26,26391,CT
+27,North Haven,6473.0,19,26,24093,CT
+28,Darien,6820.0,28,32,20732,CT
+29,Ansonia,6401.0,38,25,19249,CT
+30,Wallingford Center,,45,34,18209,CT
+31,Willimantic,,50,46,17737,CT
+0,Denver (the largest city in Colorado),80219.0,61,72,600158,CO
+1,Colorado Springs,80918.0,36,45,416427,CO
+2,Aurora,80013.0,43,53,325078,CO
+3,Fort Collins,,37,78,143986,CO
+4,Lakewood,80226.0,43,56,142980,CO
+5,Thornton,80241.0,32,48,118772,CO
+6,Pueblo,,37,47,106595,CO
+7,Arvada,80004.0,35,50,106433,CO
+8,Westminster,80031.0,35,51,106114,CO
+9,Centennial,80122.0,35,46,100377,CO
+10,Boulder,,56,86,97385,CO
+11,Highlands Ranch,80126.0,28,49,96713,CO
+12,Greeley,,39,47,92889,CO
+13,Longmont,80501.0,39,58,86270,CO
+14,Loveland,,30,46,66859,CO
+15,Grand Junction,81501.0,32,55,58566,CO
+16,Broomfield,,33,58,55889,CO
+17,Castle Rock,,11,40,48231,CO
+18,Commerce City,,30,45,45913,CO
+19,Parker,,21,44,45297,CO
+20,Littleton,80120.0,40,45,41737,CO
+21,Northglenn,,47,56,35789,CO
+22,Brighton,,36,49,33352,CO
+23,Security-Widefield,80911.0,18,32,32882,CO
+24,Ken Caryl,,38,52,32438,CO
+25,Dakota Ridge,,25,41,32005,CO
+26,Englewood,,61,62,30255,CO
+27,Wheat Ridge,80033.0,45,61,30166,CO
+28,Pueblo West,,7,36,29637,CO
+29,Fountain,,19,30,25846,CO
+30,Lafayette,,42,52,24453,CO
+31,Columbine,,31,48,24280,CO
+32,Clifton,,16,38,19889,CO
+33,Montrose,,28,43,19132,CO
+34,Golden,,42,56,18867,CO
+35,Windsor,,25,39,18644,CO
+36,Evans,80620.0,32,36,18537,CO
+37,Louisville,,42,71,18376,CO
+38,Sherrelwood,,42,37,18287,CO
+39,Erie,,13,43,18135,CO
+40,Durango,,37,52,16887,CO
+0,Los Angeles (the largest city in California),90011.0,69,59,3792621,CA
+1,San Diego,92126.0,53,43,1307402,CA
+2,San Jose,95123.0,51,62,945942,CA
+3,San Francisco,94112.0,89,72,805235,CA
+4,Fresno,93702.0,47,58,494665,CA
+5,Sacramento,95822.0,49,67,466488,CA
+6,Long Beach,90805.0,73,70,462257,CA
+7,Oakland,94601.0,75,65,390724,CA
+8,Bakersfield,93309.0,37,44,347483,CA
+9,Anaheim,92804.0,56,52,336265,CA
+10,Santa Ana,92704.0,67,62,324528,CA
+11,Riverside,92505.0,43,49,303871,CA
+12,Stockton,95207.0,44,52,291707,CA
+13,Chula Vista,91911.0,46,41,243916,CA
+14,Fremont,94536.0,50,54,214089,CA
+15,Irvine,92612.0,43,69,212375,CA
+16,San Bernardino,92405.0,45,44,209924,CA
+17,Modesto,95355.0,48,48,201165,CA
+18,Oxnard,93035.0,57,51,197899,CA
+19,Fontana,92336.0,37,41,196069,CA
+20,Moreno Valley,92553.0,33,37,193365,CA
+21,Glendale,91205.0,71,52,191719,CA
+22,Huntington Beach,92647.0,56,71,189992,CA
+23,Santa Clarita,,35,33,176320,CA
+24,Garden Grove,92840.0,62,58,170883,CA
+25,Santa Rosa,95405.0,47,51,167815,CA
+26,Oceanside,92057.0,39,33,167086,CA
+27,Rancho Cucamonga,91730.0,41,45,165269,CA
+28,Ontario,91761.0,48,46,163924,CA
+29,Lancaster,,29,40,156633,CA
+30,Elk Grove,,32,45,153015,CA
+31,Palmdale,,24,35,152750,CA
+32,Corona,92879.0,39,35,152374,CA
+33,Salinas,93905.0,55,50,150441,CA
+34,Pomona,91766.0,52,47,149058,CA
+35,Torrance,90503.0,67,54,145438,CA
+36,Hayward,94544.0,57,53,144186,CA
+37,Escondido,,45,40,143911,CA
+38,Sunnyvale,94087.0,60,78,140081,CA
+39,Pasadena,91104.0,69,70,137122,CA
+40,Orange,92867.0,51,53,136416,CA
+41,Fullerton,92833.0,54,47,135161,CA
+42,Thousand Oaks,91360.0,33,27,126683,CA
+43,East Los Angeles,90022.0,75,49,126496,CA
+44,Visalia,,39,48,124442,CA
+45,Simi Valley,93065.0,39,47,124237,CA
+46,Concord,94518.0,49,53,122067,CA
+47,Roseville,95678.0,38,59,118788,CA
+48,Santa Clara,95051.0,58,74,116468,CA
+49,Vallejo,94590.0,46,36,115942,CA
+50,Victorville,92394.0,19,34,115903,CA
+51,El Monte,91732.0,62,57,113475,CA
+52,Berkeley,94704.0,85,83,112580,CA
+53,Downey,90242.0,61,53,111772,CA
+54,Costa Mesa,92627.0,65,66,109960,CA
+55,Inglewood,90301.0,73,54,109673,CA
+56,San Buenaventura (Ventura),,48,59,106433,CA
+57,West Covina,91790.0,47,37,106098,CA
+58,Norwalk,90650.0,61,52,105549,CA
+59,Carlsbad,92009.0,31,29,105328,CA
+60,Fairfield,94535.0,37,42,105321,CA
+61,Richmond,94804.0,59,52,103701,CA
+62,Murrieta,,28,24,103466,CA
+63,Burbank,91505.0,71,62,103340,CA
+64,Antioch,94509.0,41,42,102372,CA
+65,Daly City,94015.0,66,34,101123,CA
+66,Temecula,,30,29,100097,CA
+67,Santa Maria,,52,54,99553,CA
+68,El Cajon,92020.0,61,45,99478,CA
+69,Rialto,92376.0,41,43,99171,CA
+70,San Mateo,94403.0,68,65,97207,CA
+71,Compton,,65,60,96455,CA
+72,Clovis,93612.0,37,51,95631,CA
+73,South Gate,90280.0,70,55,94396,CA
+74,Vista,92083.0,46,30,93834,CA
+75,Mission Viejo,92691.0,36,36,93305,CA
+76,Vacaville,,36,46,92428,CA
+77,Arden-Arcade,95821.0,55,64,92186,CA
+78,Carson,90745.0,55,51,91714,CA
+79,Hesperia,,16,32,90173,CA
+80,Redding,,27,42,89861,CA
+81,Santa Monica,90405.0,83,88,89736,CA
+82,Westminster,92683.0,65,58,89701,CA
+83,Santa Barbara,93101.0,61,68,88410,CA
+84,Chico,95926.0,49,69,86187,CA
+85,Whittier,90602.0,64,52,85331,CA
+86,Newport Beach,92660.0,49,53,85186,CA
+87,San Leandro,94577.0,65,63,84950,CA
+88,Hawthorne,90250.0,72,59,84293,CA
+89,San Marcos,92078.0,33,30,83781,CA
+90,Citrus Heights,95610.0,43,46,83301,CA
+91,Alhambra,91801.0,71,49,83089,CA
+92,Tracy,95376.0,43,46,82922,CA
+93,Livermore,,41,66,80968,CA
+94,Buena Park,90620.0,57,54,80530,CA
+95,Lakewood,90712.0,58,62,80048,CA
+96,Merced,,42,54,78958,CA
+97,Hemet,,35,43,78657,CA
+98,Chino,,44,46,77983,CA
+99,Menifee,92586.0,16,29,77519,CA
+100,Lake Forest,92630.0,41,46,77264,CA
+101,Napa,,51,60,76915,CA
+102,Redwood City,94061.0,62,67,76815,CA
+103,Bellflower,90706.0,66,60,76616,CA
+104,Indio,,32,43,76036,CA
+105,Tustin,92780.0,51,59,75540,CA
+106,Baldwin Park,,55,50,75390,CA
+107,Chino Hills,91709.0,23,20,74799,CA
+108,Mountain View,94040.0,66,92,74066,CA
+109,Alameda,94501.0,68,77,73812,CA
+110,Upland,91786.0,48,47,73732,CA
+111,Folsom,95630.0,31,54,72203,CA
+112,San Ramon,,24,37,72148,CA
+113,Pleasanton,,42,58,70285,CA
+114,Lynwood,90262.0,70,56,69772,CA
+115,Union City,,47,53,69516,CA
+116,Apple Valley,,13,31,69135,CA
+117,Redlands,,40,53,68747,CA
+118,Turlock,,46,45,68549,CA
+119,Perris,,24,33,68386,CA
+120,Manteca,,42,45,67096,CA
+121,Milpitas,,54,66,66790,CA
+122,Redondo Beach,90278.0,75,64,66748,CA
+123,Davis,,50,90,65622,CA
+124,Camarillo,,43,46,65201,CA
+125,Yuba City,,43,54,64925,CA
+126,Rancho Cordova,,43,60,64776,CA
+127,Palo Alto,94306.0,61,91,64403,CA
+128,Yorba Linda,92887.0,28,34,64234,CA
+129,Walnut Creek,94596.0,41,49,64173,CA
+130,South San Francisco,94080.0,63,42,63632,CA
+131,San Clemente,92672.0,34,31,63522,CA
+132,Florence-Graham,,75,56,63387,CA
+133,Pittsburg,,39,40,63264,CA
+134,Laguna Niguel,92677.0,33,31,62979,CA
+135,Pico Rivera,90660.0,59,59,62942,CA
+136,Montebello,90640.0,66,53,62500,CA
+137,Lodi,,58,53,62134,CA
+138,Carmichael,95608.0,46,54,61762,CA
+139,Madera,,42,44,61416,CA
+140,Castro Valley,94546.0,40,31,61388,CA
+141,Monterey Park,91754.0,64,38,60269,CA
+142,La Habra,,63,46,60239,CA
+143,Santa Cruz,95064.0,63,86,59946,CA
+144,Encinitas,92024.0,43,35,59518,CA
+145,Tulare,,40,55,59278,CA
+146,Gardena,90249.0,75,56,58829,CA
+147,National City,91950.0,69,49,58582,CA
+148,Cupertino,,48,65,58302,CA
+149,Huntington Park,,83,58,58114,CA
+150,Petaluma,,47,54,57941,CA
+151,San Rafael,94901.0,53,45,57713,CA
+152,South Whittier,,55,47,57156,CA
+153,La Mesa,91942.0,60,35,57065,CA
+154,Rocklin,95765.0,34,51,56974,CA
+155,Arcadia,91007.0,54,47,56364,CA
+156,Diamond Bar,,30,16,55544,CA
+157,Woodland,,50,65,55468,CA
+158,Fountain Valley,92708.0,56,66,55313,CA
+159,Porterville,,40,47,54165,CA
+160,Paramount,90723.0,64,56,54098,CA
+161,Hacienda Heights,91745.0,35,27,54038,CA
+162,Hanford,,36,46,53967,CA
+163,Rosemead,,65,51,53764,CA
+164,Eastvale,,24,33,53668,CA
+165,Santee,,35,31,53413,CA
+166,Highland,,35,36,53104,CA
+167,Delano,,35,37,53041,CA
+168,Colton,,43,45,52154,CA
+169,Novato,,36,37,51904,CA
+170,Lake Elsinore,,25,24,51821,CA
+171,Brentwood,,38,50,51481,CA
+172,Yucaipa,,25,27,51367,CA
+173,Cathedral City,92234.0,38,43,51200,CA
+174,Watsonville,95019.0,69,70,51199,CA
+175,Placentia,92870.0,50,46,50533,CA
+176,Glendora,91741.0,47,42,50073,CA
+177,Cerritos,90703.0,54,57,49041,CA
+178,Rowland Heights,,44,32,48993,CA
+179,Gilroy,,47,63,48821,CA
+180,West Sacramento,95605.0,39,61,48744,CA
+181,La Mirada,90638.0,47,51,48527,CA
+182,Palm Desert,,28,40,48445,CA
+183,Rancho Santa Margarita,,34,34,47853,CA
+184,Aliso Viejo,,35,34,47823,CA
+185,Poway,,30,31,47811,CA
+186,Cypress,90630.0,53,61,47802,CA
+187,Covina,91723.0,59,48,47796,CA
+188,Florin,,45,46,47513,CA
+189,Azusa,,58,49,46361,CA
+190,Dublin,94568.0,36,56,46036,CA
+191,Antelope,95843.0,34,44,45770,CA
+192,Ceres,,44,43,45417,CA
+193,San Luis Obispo,,56,69,45119,CA
+194,Palm Springs,92264.0,35,46,44552,CA
+195,San Jacinto,92582.0,27,42,44199,CA
+196,Lincoln,,22,47,42819,CA
+197,Altadena,91001.0,51,44,42777,CA
+198,North Highlands,95660.0,52,56,42694,CA
+199,El Centro,,51,46,42598,CA
+200,Newark,,57,48,42573,CA
+201,Lompoc,,53,65,42434,CA
+202,El Dorado Hills,95762.0,12,18,42108,CA
+203,Bell Gardens,,72,61,42072,CA
+204,Danville,94526.0,25,34,42039,CA
+205,Rancho Palos Verdes,90275.0,28,20,41643,CA
+206,San Bruno,94066.0,56,35,41114,CA
+207,Rohnert Park,94928.0,41,55,40971,CA
+208,Coachella,,39,41,40704,CA
+209,La Puente,,60,46,39816,CA
+210,San Gabriel,91776.0,74,50,39718,CA
+211,Campbell,95008.0,55,71,39349,CA
+212,Brea,,50,46,39282,CA
+213,Culver City,90232.0,76,71,38883,CA
+214,Calexico,,44,45,38572,CA
+215,Stanton,90680.0,63,55,38186,CA
+216,Morgan Hill,,37,50,37882,CA
+217,La Quinta,92253.0,22,34,37467,CA
+218,Pacifica,,45,26,37234,CA
+219,Beaumont,,25,31,36877,CA
+220,Montclair,91763.0,57,54,36664,CA
+221,Monrovia,91016.0,62,47,36590,CA
+222,Willowbrook,,58,52,35983,CA
+223,Los Banos,,33,39,35972,CA
+224,Martinez,,41,39,35824,CA
+225,Temple City,91780.0,57,56,35558,CA
+226,Bell,,77,61,35477,CA
+227,Oakley,94561.0,28,49,35432,CA
+228,Manhattan Beach,90266.0,73,52,35135,CA
+229,Hollister,,44,47,34928,CA
+230,Claremont,91711.0,48,50,34926,CA
+231,San Juan Capistrano,,34,46,34593,CA
+232,Moorpark,,35,32,34421,CA
+233,West Hollywood,,91,58,34399,CA
+234,Rubidoux,,31,30,34280,CA
+235,La Presa,,44,32,34169,CA
+236,Beverly Hills,90212.0,75,52,34109,CA
+237,Orangevale,95662.0,31,40,33960,CA
+238,San Dimas,91773.0,37,33,33371,CA
+239,Dana Point,92629.0,53,42,33351,CA
+240,Pleasant Hill,94523.0,54,61,33152,CA
+241,Foothill Farms,95842.0,46,55,33121,CA
+242,Seaside,93955.0,53,48,33025,CA
+243,Lawndale,,82,59,32769,CA
+244,Oildale,,45,47,32684,CA
+245,Wildomar,92595.0,15,22,32176,CA
+246,Menlo Park,94025.0,58,80,32026,CA
+247,Westmont,,58,56,31853,CA
+248,Adelanto,,8,31,31765,CA
+249,La Verne,,42,37,31063,CA
+250,Fair Oaks,95628.0,40,40,30912,CA
+251,Foster City,94404.0,50,64,30567,CA
+252,Fallbrook,,39,26,30534,CA
+253,Laguna Hills,,41,40,30344,CA
+254,Saratoga,,28,45,29926,CA
+255,Goleta,,44,73,29888,CA
+256,El Paso de Robles (Paso Robles),,38,30,29793,CA
+257,Banning,,29,32,29603,CA
+258,Los Gatos,,47,51,29413,CA
+259,Santa Paula,,59,47,29321,CA
+260,Walnut,,32,28,29172,CA
+261,San Pablo,,73,50,29139,CA
+262,Los Altos,,46,73,28976,CA
+263,Orcutt,,25,40,28905,CA
+264,Burlingame,,70,64,28806,CA
+265,San Carlos,94070.0,47,41,28406,CA
+266,Atascadero,,27,29,28310,CA
+267,Spring Valley,,36,23,28205,CA
+268,Atwater,,41,41,28168,CA
+269,East Palo Alto,,59,71,28155,CA
+270,Suisun City,,34,49,28111,CA
+271,Monterey,,53,47,27810,CA
+272,Ridgecrest,,37,50,27616,CA
+273,Maywood,90270.0,80,63,27395,CA
+274,Eureka,,69,71,27191,CA
+275,Norco,92860.0,24,26,27063,CA
+276,Benicia,,34,23,26997,CA
+277,Windsor,,36,48,26801,CA
+278,Imperial Beach,91932.0,69,63,26324,CA
+279,Paradise,,21,28,26218,CA
+280,Desert Hot Springs,,34,33,25938,CA
+281,Belmont,,47,37,25835,CA
+282,Soledad,,29,40,25738,CA
+283,South Pasadena,91030.0,67,51,25619,CA
+284,Wasco,,36,37,25545,CA
+285,West Whittier-Los Nietos,,61,57,25540,CA
+286,Lemon Grove,91945.0,52,34,25320,CA
+287,Twentynine Palms,,18,31,25048,CA
+288,Brawley,,46,45,24953,CA
+289,North Tustin,,23,32,24917,CA
+290,Vineyard,,14,31,24836,CA
+291,Corcoran,,21,33,24813,CA
+292,Lemoore,,43,45,24531,CA
+293,Sanger,,48,47,24270,CA
+294,Reedley,,50,52,24194,CA
+295,Seal Beach,90740.0,41,58,24168,CA
+296,Hercules,94547.0,29,26,24060,CA
+297,Lafayette,,26,28,23893,CA
+298,Bloomington,,33,36,23851,CA
+299,Cudahy,,62,61,23805,CA
+300,Galt,,33,37,23647,CA
+301,San Fernando,,79,57,23645,CA
+302,El Cerrito,94530.0,67,60,23549,CA
+303,San Lorenzo,,56,56,23452,CA
+304,Loma Linda,92354.0,37,40,23261,CA
+305,Selma,,47,42,23219,CA
+306,Isla Vista,,60,90,23096,CA
+307,French Valley,,9,25,23067,CA
+308,Calabasas,,23,15,23058,CA
+309,Ladera Ranch,92694.0,27,23,22980,CA
+310,Valinda,,54,47,22822,CA
+311,Lennox,,74,57,22753,CA
+312,Laguna Beach,,43,24,22723,CA
+313,Rosemont,,43,56,22681,CA
+314,Riverbank,,38,43,22678,CA
+315,Barstow,,40,37,22639,CA
+316,West Puente Valley,,56,50,22636,CA
+317,Temescal Valley,,10,12,22535,CA
+318,Mira Loma,,28,33,21930,CA
+319,Ashland,,64,51,21925,CA
+320,Port Hueneme,,58,60,21723,CA
+321,West Carson,,56,54,21699,CA
+322,Millbrae,94030.0,55,41,21532,CA
+323,Dinuba,,56,47,21453,CA
+324,South Lake Tahoe,,46,66,21403,CA
+325,Bay Point,,43,47,21349,CA
+326,Duarte,,48,48,21321,CA
+327,Rancho San Diego,,24,15,21208,CA
+328,Blythe,,23,35,20817,CA
+329,Yucca Valley,,20,30,20700,CA
+330,Oakdale,,52,52,20675,CA
+331,Lakeside,,28,27,20648,CA
+332,Winter Gardens,,33,17,20631,CA
+333,South San Jose Hills,,40,40,20551,CA
+334,Patterson,,42,39,20413,CA
+335,Granite Bay,95746.0,13,31,20402,CA
+336,Agoura Hills,,37,26,20330,CA
+337,Ramona,,32,34,20292,CA
+338,Lomita,90717.0,74,58,20256,CA
+339,La Cañada Flintridge,,34,25,20246,CA
+340,Glen Avon,,28,31,20199,CA
+341,South El Monte,,61,55,20116,CA
+342,Marina,,46,56,19718,CA
+343,La Crescenta-Montrose,,53,28,19653,CA
+344,Hermosa Beach,90254.0,87,71,19506,CA
+345,American Canyon,,36,46,19454,CA
+346,Arvin,,41,37,19304,CA
+347,Castaic,,24,16,19015,CA
+348,Coronado,92118.0,54,73,18912,CA
+349,Casa de Oro-Mount Helix,,32,16,18762,CA
+350,Chowchilla,,25,37,18720,CA
+351,Albany,94706.0,84,91,18539,CA
+352,Mead Valley,,5,24,18510,CA
+353,Pinole,94564.0,42,28,18390,CA
+354,Dixon,,48,42,18351,CA
+355,Cameron Park,,23,22,18228,CA
+356,Rosamond,,18,33,18150,CA
+357,Lathrop,95330.0,29,40,18023,CA
+358,Susanville,,25,33,17947,CA
+359,Linda,,26,45,17773,CA
+360,Orinda,,9,18,17643,CA
+361,Prunedale,,4,11,17560,CA
+362,Stevenson Ranch,,19,20,17557,CA
+363,East Hemet,,25,38,17418,CA
+364,Arroyo Grande,,44,39,17252,CA
+365,Arcata,,48,65,17231,CA
+366,Rancho Mirage,92270.0,15,34,17218,CA
+367,Live Oak,,56,81,17158,CA
+368,Shafter,,45,43,16988,CA
+369,Nipomo,,25,29,16714,CA
+370,El Segundo,90245.0,65,49,16654,CA
+371,Artesia,90701.0,78,60,16522,CA
+0,Little Rock (the largest city in Arkansas),72209.0,33,32,193524,AR
+1,Fort Smith,72903.0,35,38,86209,AR
+2,Fayetteville,,32,50,73580,AR
+3,Springdale,,27,39,69797,AR
+4,Jonesboro,,23,30,67263,AR
+5,North Little Rock,72116.0,32,31,62304,AR
+6,Conway,,25,37,58908,AR
+7,Rogers,,20,43,55964,AR
+8,Pine Bluff,,26,35,49083,AR
+9,Bentonville,,24,41,35301,AR
+10,Hot Springs,,31,27,35193,AR
+11,Benton,,17,27,30681,AR
+12,Texarkana,,26,34,29919,AR
+13,Sherwood,,21,29,29523,AR
+14,Jacksonville,,22,35,28364,AR
+15,Russellville,72801.0,27,38,27920,AR
+16,Bella Vista,72714.0,2,9,26461,AR
+17,West Memphis,,31,38,26245,AR
+18,Paragould,,23,30,26113,AR
+19,Cabot,,19,31,23776,AR
+20,Searcy,,36,44,22858,AR
+21,Van Buren,,23,27,22791,AR
+22,El Dorado,,29,32,18884,AR
+23,Maumelle,,16,44,17163,AR
+24,Bryant,72022.0,16,31,16688,AR
+0,Phoenix (the largest city in Arizona),85032.0,41,56,1445632,AZ
+1,Tucson,85710.0,43,66,520116,AZ
+2,Mesa,85204.0,38,60,439041,AZ
+3,Chandler,85225.0,35,55,236123,AZ
+4,Glendale,85301.0,40,57,226721,AZ
+5,Scottsdale,85255.0,32,56,217385,AZ
+6,Gilbert,85296.0,29,53,208453,AZ
+7,Tempe,85281.0,54,75,161719,AZ
+8,Peoria,85345.0,30,47,154065,AZ
+9,Surprise,85374.0,21,46,117517,AZ
+10,Yuma,,34,51,93064,AZ
+11,San Tan Valley,,12,34,81321,AZ
+12,Avondale,85329.0,26,52,76238,AZ
+13,Casas Adobes,85741.0,24,44,66795,AZ
+14,Flagstaff,,39,65,65870,AZ
+15,Goodyear,,17,42,65275,AZ
+16,Lake Havasu City,86403.0,15,29,52527,AZ
+17,Buckeye,,14,33,50876,AZ
+18,Catalina Foothills,85718.0,13,30,50796,AZ
+19,Casa Grande,,27,45,48571,AZ
+20,Sierra Vista,85613.0,25,53,43888,AZ
+21,Maricopa,,13,38,43482,AZ
+22,Oro Valley,,12,41,41011,AZ
+23,Prescott,,25,27,39843,AZ
+24,Bullhead City,,21,32,39540,AZ
+25,Prescott Valley,,16,36,38822,AZ
+26,Sun City,85351.0,26,42,37499,AZ
+27,Apache Junction,,21,41,35840,AZ
+28,Marana,,14,38,34961,AZ
+29,El Mirage,,27,42,31797,AZ
+30,Kingman,,25,36,28068,AZ
+31,Drexel Heights,,16,32,27749,AZ
+32,Queen Creek,,17,44,26361,AZ
+33,Fortuna Foothills,85367.0,14,36,26265,AZ
+34,Florence,,16,36,25536,AZ
+35,San Luis,85349.0,20,39,25505,AZ
+36,Sahuarita,,8,30,25259,AZ
+37,Sun City West,,12,38,24535,AZ
+38,Fountain Hills,85268.0,19,23,22489,AZ
+39,Anthem,,18,42,21700,AZ
+40,Green Valley,,12,31,21391,AZ
+41,Nogales,,30,27,20837,AZ
+42,Rio Rico,,4,17,18962,AZ
+43,Douglas,,35,46,17378,AZ
+44,Tanque Verde,,4,29,16901,AZ
+45,Eloy,,12,32,16631,AZ
+0,Anchorage,,31,52,291826,AK
+1,Fairbanks,,32,56,31535,AK
+2,Juneau,,21,35,31275,AK
+3,Badger,,3,30,19482,AK
+0,Birmingham (the largest city in Alabama),35211.0,33,31,212237,AL
+1,Montgomery,36109.0,26,33,205764,AL
+2,Mobile,36605.0,32,34,195111,AL
+3,Huntsville,35810.0,24,40,180105,AL
+4,Tuscaloosa,,33,37,90468,AL
+5,Hoover,,17,12,81619,AL
+6,Dothan,,22,31,65496,AL
+7,Decatur,,25,40,55683,AL
+8,Auburn,,28,38,53380,AL
+9,Madison,35758.0,17,34,42938,AL
+10,Florence,35630.0,32,36,39319,AL
+11,Gadsden,,25,33,36856,AL
+12,Vestavia Hills,,22,15,34033,AL
+13,Prattville,,18,28,33960,AL
+14,Phenix City,36867.0,24,24,32822,AL
+15,Alabaster,,10,20,30352,AL
+16,Bessemer,,26,31,27456,AL
+17,Enterprise,,19,26,26562,AL
+18,Opelika,,18,29,26477,AL
+19,Homewood,,42,25,25167,AL
+20,Northport,,27,30,23330,AL
+21,Anniston,36205.0,22,26,23106,AL
+22,Prichard,36612.0,23,31,22659,AL
+23,Athens,,21,33,21897,AL
+24,Daphne,,15,27,21570,AL
+25,Pelham,,13,16,21352,AL
+26,Oxford,,10,23,21348,AL
+27,Albertville,,19,34,21160,AL
+28,Selma,,30,41,20756,AL
+29,Mountain Brook,,21,14,20413,AL
+30,Trussville,,10,12,19933,AL
+31,Troy,,21,24,18033,AL
+32,Tillmans Corner,,13,26,17398,AL
+33,Center Point,,24,19,16921,AL
+34,Helena,,12,18,16793,AL
