@@ -1,7 +1,6 @@
 """Code to get the following data: 
 
 1. Walkability data for each state (at city level)
-2. CDC physical activity  
 
 """
 
@@ -10,9 +9,9 @@ import requests
 from io import StringIO
 
 # WALKABILITY DATA
-list_us_abbv = pd.read_html("https://www.ssa.gov/international/coc-docs/states.html")[
-    0
-][1].to_list()
+list_us_abbv = (
+    pd.read_html("https://www.ssa.gov/international/coc-docs/states.html")[0][1]
+).to_list()
 
 df_walk = pd.DataFrame()
 for st in list_us_abbv:
@@ -29,6 +28,6 @@ assert df_walk["State"].nunique() == 51
 
 df_walk.drop(["Transit Score"], axis=1).to_csv("./data/walkability.csv")
 
-# PHYSICAL ACTIVITY DATA 
+# PHYSICAL ACTIVITY DATA
 response = requests.get("https://data.cdc.gov/resource/vba9-s8jp.csv").text
 data = StringIO(response)
